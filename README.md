@@ -7,6 +7,10 @@
 
 <br>
 
+<div align="center"><a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">👉 𝗠𝗬 𝗥𝗘𝗣𝗢𝗦</a></div>
+
+
+
 <div align="center">
 
  📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 📍 𝗦𝗢𝗙𝗜𝗔
