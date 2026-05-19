@@ -90,23 +90,6 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 
 <br>
 
-
-## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
-
-**𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦**  
-Neural networks, regression, classification, feature engineering, model evaluation, applied ML pipelines  
-
-**𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗣𝗜𝗦**  
-Java, Python, REST APIs, distributed systems, microservices concepts, system integration  
-
-**𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚**  
-SQL, data modeling, query optimization, pipeline design, structured data processing  
-
-**𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗔𝗖𝗧𝗜𝗖𝗘𝗦**  
-Clean code, OOP, Git workflows, Agile development, modular system design  
-
-<br>
-
 #### Team: Core Algorithms & System Integrations — ZigiWave
 
 Contributed to backend integrations, data transfer workflows, and internal platform functionality using **Clojure** and API-driven architectures. Focused on maintainable backend services, modular system design, and scalable data processing.
@@ -169,29 +152,22 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 <br>
 
 
-## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦
+## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
 
-**𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗔𝗜**  
-Neural networks, regression, classification, model evaluation, feature engineering, Scikit-learn, LLM basics  
+**𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦**  
+Neural networks, regression, classification, feature engineering, model evaluation, applied ML pipelines  
 
-**𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧**  
-Java, Python, REST APIs, API integrations, Spring Boot basics, system design concepts  
+**𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗣𝗜𝗦**  
+Java, Python, REST APIs, distributed systems, microservices concepts, system integration  
 
-**𝗙𝗥𝗢𝗡𝗧𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧**  
-JavaScript, HTML5, CSS3, responsive web design  
+**𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚**  
+SQL, data modeling, query optimization, pipeline design, structured data processing  
 
-**𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗔𝗟 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚**  
-Clojure, ClojureScript, functional programming in Python  
-
-**𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦**  
-SQL, relational databases, query optimization, data modeling  
-
-**𝗧𝗢𝗢𝗟𝗦 & 𝗣𝗥𝗔𝗖𝗧𝗜𝗖𝗘𝗦**  
-Git, Jupyter Notebook, VS Code, Agile/Scrum, OOP, clean code, modular architecture, scalable system design  
+**𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗔𝗖𝗧𝗜𝗖𝗘𝗦**  
+Clean code, OOP, Git workflows, Agile development, modular system design  
 
 
 <br>
-
 
 
 ## 📚 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡
