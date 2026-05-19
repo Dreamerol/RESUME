@@ -436,9 +436,6 @@ Oct 2024 – Present
 
   <br>
 
-<br>
-
-
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
@@ -455,6 +452,7 @@ Oct 2024 – Present
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
+<br>
 
 <p align="center">
   🔗 Explore more on my GitHub profile: 
