@@ -100,7 +100,7 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Contributed to backend integrations, processing workflows, and system reliability
 - Participated in Agile development, code reviews, debugging, and Git-based collaboration
 
-<br>
+
 
 ### 📝 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡 𝗪𝗢𝗥𝗞
 
