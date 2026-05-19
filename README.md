@@ -53,9 +53,7 @@
 <br>
 
 
-
 ## 📝 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
-
 
 
 Software Engineering student at Sofia University “St. Kliment Ohridski” (FMI) with a strong background in algorithms, analytical thinking, and mathematical problem-solving, developed through years of study at Sofia Mathematical High School (SMG).
@@ -64,9 +62,6 @@ Experience building backend systems, data pipelines, and REST API applications u
 
 Focused on backend engineering, data-driven systems, and Applied Machine Learning, with experience working on Neural Networks, predictive analytics, and statistical modeling for real-world problems, alongside scalable and modular software architectures.
 
-
-
----
 
 <br>
 
@@ -82,7 +77,6 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Contributed to backend integrations, processing workflows, and system reliability
 - Participated in Agile development, code reviews, debugging, and Git-based collaboration
 
-
 <br>
 
 ### 📝 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡 𝗪𝗢𝗥𝗞
@@ -93,8 +87,7 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Featured Project: 👉 [𝗝𝗮𝘃𝗮 + 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗔𝗣𝗜 𝗦𝘆𝘀𝘁𝗲𝗺](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
 
-
----
+<br>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
