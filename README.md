@@ -14,15 +14,6 @@
 𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 │ 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 │ ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 
 </h2>
 
-<br>
-
-<div align="center">
-
-  <img   src="https://github.com/Dreamerol/Dreamerol/blob/23b5b434e97414ff80d21d7bbf2460baf4ef9d63/ZZZZZZZZZZZZZZZBANNER_SWE_DATA_22.PNG?raw=true"
-     width="100%"/>
-
-</div>
-
 
 <br>
 
