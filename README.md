@@ -101,7 +101,6 @@ Building backend integrations and API communication between distributed services
 **𝗗𝗔𝗧𝗔 𝗣𝗥𝗢𝗖𝗘𝗦𝗦𝗜𝗡𝗚 𝗣𝗜𝗣𝗘𝗟𝗜𝗡𝗘𝗦** ⚡  
 Designing modular workflows for automation and scalable data processing
 
-<br>
 
 #### Core Algorithms & System Integrations — ZigiWave
 
