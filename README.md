@@ -193,31 +193,55 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 <br>
 
 
-### [🧠 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
-- Designed, trained & evaluated neural networks (~90%+ accuracy).  
-- Implemented **Backpropagation** & **Gradient Descent** from scratch.  
-- Applied ML to dynamic system modeling (SIR model, ODE simulations).
+<h2 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026" target="_blank" style="text-decoration:none; color:inherit;">
+    🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+  </a>
+</h2>
 
-### [💰 PROFIT PREDICTOR ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)
-- Full ML pipeline for **profit forecasting** and trend analysis.  
-- Conducted **EDA**, feature engineering, & preprocessing.  
-- Implemented Regression, Decision Trees, and Time Series models.
+<p align="center">
+  <sub>Machine Learning • Predictive Analytics • Backend Systems • Data Engineering</sub>
+</p>
 
-### [💊 PLACEBO EFFECT ML DATA ANALYSIS](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) (Python, Pandas, Matplotlib, NumPy)
-- EDA & statistical analysis on clinical datasets (5,000+ records).  
-- Hypothesis testing & correlation analysis (**p < 0.05**).  
-- Preprocessing and data visualization for clarity & insights.
+<br>
 
-### [📦 DELIVERY DATA SQL SYSTEM](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) (SQL, Relational Databases)
-- Designed normalized relational database schema.  
-- Optimized SQL queries (~30% performance improvement).  
-- Enabled KPI tracking & **data-driven insights**.
+### 🧠 [𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦](https://github.com/Dreamerol/NEURAL-NETWORKS)
+*Python, TensorFlow*
 
-### [🌐 SOFTWARE PORTFOLIO](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO) (HTML, CSS, JavaScript)
-- 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 – this section contains 𝗰𝗹𝗶𝗰𝗸𝗮𝗯𝗹𝗲 𝗯𝗮𝗱𝗴𝗲𝘀 & images linking repositories.
-- Personal developer portfolio showcasing projects, skills & achievements.  
-- Fully responsive UI with modern UI/UX design principles.  
-- Central hub linking all repositories and professional profiles.
+- Designed and evaluated neural network models with ~90%+ accuracy  
+- Implemented backpropagation, gradient descent, and dynamic system simulations
+
+<br>
+
+### 💰 [𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML)
+*Python, Scikit-learn, Pandas, NumPy*
+
+- Built an end-to-end ML pipeline for forecasting and trend analysis  
+- Performed EDA, feature engineering, preprocessing, and model evaluation
+
+<br>
+
+### 💊 [𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS)
+*Python, Pandas, Matplotlib, NumPy*
+
+- Conducted statistical analysis on clinical datasets with 5,000+ records  
+- Applied hypothesis testing, preprocessing, and analytical visualizations
+
+<br>
+
+### 📦 [𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗗𝗔𝗧𝗔 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM)
+*SQL, Relational Databases*
+
+- Designed and normalized relational database schemas  
+- Optimized SQL queries, reducing execution time by ~30%
+
+<br>
+
+### 🌐 [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO)
+*HTML, CSS, JavaScript*
+
+- Developed a responsive portfolio platform connecting projects and repositories  
+- Created a centralized hub for technical projects, skills, and professional work
 
 
 <br>
