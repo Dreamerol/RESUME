@@ -101,6 +101,7 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Participated in Agile development, code reviews, debugging, and Git-based collaboration
 
 
+<br>
 
 ### 📝 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡 𝗪𝗢𝗥𝗞
 
@@ -134,18 +135,25 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 
 ### 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
 
-**𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦** ⚙️ – DEVELOPING EFFICIENT, REUSABLE ALGORITHMIC SOLUTIONS  
-**𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦** 🔗 – ENSURING SEAMLESS COMMUNICATION BETWEEN INDEPENDENT SYSTEMS  
-**𝗦𝗖𝗔𝗟𝗔𝗕𝗟𝗘 𝗗𝗔𝗧𝗔 𝗣𝗜𝗣𝗘𝗟𝗜𝗡𝗘𝗦** ⚡ – DESIGNING PIPELINES FOR HIGH-PERFORMANCE DATA PROCESSING  
+**𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗜𝗖 𝗣𝗥𝗢𝗕𝗟𝗘 𝗦𝗢𝗟𝗩𝗜𝗡𝗚** ⚙️  
+Building efficient and reusable algorithmic solutions
 
-</div>
+**𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦** 🔗  
+Building backend integrations and API communication between distributed services
 
-𝗧𝗘𝗔𝗠: 𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦 @ ZIGIWAVE
-FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCUSED ON HIGH-PERFORMANCE DATA TRANSFER, TRANSFORMATION, AND SYNCHRONIZATION. LEVERAGED CLOJURE TO BUILD SCALABLE, MAINTAINABLE SOLUTIONS.
+**𝗗𝗔𝗧𝗔 𝗣𝗥𝗢𝗖𝗘𝗦𝗦𝗜𝗡𝗚 𝗣𝗜𝗣𝗘𝗟𝗜𝗡𝗘𝗦** ⚡  
+Designing modular workflows for automation and scalable data processing
 
-𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡) | 
-𝗙𝗢𝗖𝗨𝗦: 𝗝𝗔𝗩𝗔, 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 & 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+<br>
 
+#### Core Algorithms & System Integrations — ZigiWave
+
+Contributed to backend integrations, data transfer workflows, and internal platform functionality using **Clojure** and API-driven architectures. Focused on maintainable backend services, modular system design, and scalable data processing.
+
+<br>
+
+𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡)  
+𝗙𝗢𝗖𝗨𝗦: **Java**, **Clojure**, Backend Systems & REST API Integrations
 
 
 <br>
