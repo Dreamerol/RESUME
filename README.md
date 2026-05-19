@@ -89,36 +89,28 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 <br>
 
 
-
-
-
-## 💼  𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
+## 💼 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
 
 
 ### 🐙 𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡) — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘, 𝗦𝗢𝗙𝗜𝗔 | 𝗦𝗘𝗣 2025 – 𝗙𝗘𝗕 2026
 
-- Engineered backend systems & data pipelines using **𝗣𝗬𝗧𝗛𝗢𝗡**, **𝗝𝗔𝗩𝗔**, and **𝗖𝗟𝗢𝗝𝗨𝗥𝗘**  
-- Designed & implemented **𝗥𝗘𝗦𝗧 𝗔𝗣𝗜𝗦 🔗** for distributed systems  
-- Developed scalable, modular components following **𝗖𝗟𝗘𝗔𝗡 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘 🧱**  
-- Contributed to data processing workflows, improving **efficiency ⚡**  
-- Participated in **𝗔𝗚𝗜𝗟𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧 𝗖𝗬𝗖𝗟𝗘𝗦 🏃‍♀️**, **𝗖𝗢𝗗𝗘 𝗥𝗘𝗩𝗜𝗘𝗪𝗦 🔍**, and **𝗩𝗘𝗥𝗦𝗜𝗢𝗡 𝗖𝗢𝗡𝗧𝗥𝗢𝗟 (𝗚𝗜𝗧 🐙)**
+- Developed backend services and data pipelines using **Python**, **Java**, and **Clojure**
+- Built REST API integrations supporting internal platform communication and data synchronization
+- Worked on modular backend components following clean architecture principles
+- Contributed to backend integrations, processing workflows, and system reliability
+- Participated in Agile development, code reviews, debugging, and Git-based collaboration
 
 <br>
 
-### 📝 𝗥𝗘𝗔𝗟-𝗪𝗢𝗥𝗟𝗗 𝗣𝗥𝗢𝗗𝗨𝗖𝗧 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧 @ 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
+#### 📝 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡 𝗪𝗢𝗥𝗞
 
-- Built and enhanced **core platform features** using **𝗝𝗔𝗩𝗔**, **𝗖𝗟𝗢𝗝𝗨𝗥𝗘**, and **𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠𝗦**  
-- Developed and maintained **scalable data pipelines** and **system integrations** powering enterprise-level workflows  
-- Implemented **core algorithms and functional modules** contributing directly to product performance and reliability  
-- GitHub Repo: 👉 [𝗖𝗟𝗢𝗝𝗨𝗥𝗘 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 (𝗔𝗣𝗜 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦)](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
-
-</div>
-
-
+- Contributed to backend platform functionality using **Java**, **Clojure**, and API-driven architectures
+- Developed modular data pipelines and backend integration components
+- Worked within a collaborative engineering environment focused on modular architecture and reliable backend services
+- Featured Project: 👉 [𝗝𝗮𝘃𝗮 + 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗔𝗣𝗜 𝗦𝘆𝘀𝘁𝗲𝗺](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
 
 <br>
-
 
 
 <p align="center">
