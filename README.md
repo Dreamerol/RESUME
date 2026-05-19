@@ -192,14 +192,6 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 
 <br> 
 
-<h2 align="center">
-  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026" target="_blank" style="text-decoration:none; color:inherit;">
-    🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
-  </a>
-</h2>
-
-<br>
-
 ### 🧠 [𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
 
 - Designed and evaluated neural networks with ~90%+ accuracy  
@@ -240,28 +232,6 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 
 <br>
 
-
-
-
-### [🧠 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow) - Designed, trained & evaluated neural networks (~90%+ accuracy). - Implemented **Backpropagation** & **Gradient Descent** from scratch. - Applied ML to dynamic system modeling (SIR model, ODE simulations). 
-
-<br>
-
-### [💰 PROFIT PREDICTOR ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy) - Full ML pipeline for **profit forecasting** and trend analysis. - Conducted **EDA**, feature engineering, & preprocessing. - Implemented Regression, Decision Trees, and Time Series models. 
-
-<br>
-
-### [💊 PLACEBO EFFECT ML DATA ANALYSIS](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) (Python, Pandas, Matplotlib, NumPy) - EDA & statistical analysis on clinical datasets (5,000+ records). - Hypothesis testing & correlation analysis (**p < 0.05**). - Preprocessing and data visualization for clarity & insights. 
-
-<br>
-
-### [📦 DELIVERY DATA SQL SYSTEM](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) (SQL, Relational Databases) - Designed normalized relational database schema. - Optimized SQL queries (~30% performance improvement). - Enabled KPI tracking & **data-driven insights**. 
-
-<br>
-
-### [🌐 SOFTWARE PORTFOLIO](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO) (HTML, CSS, JavaScript) - 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 – this section contains 𝗰𝗹𝗶𝗰𝗸𝗮𝗯𝗹𝗲 𝗯𝗮𝗱𝗴𝗲𝘀 & images linking repositories. - Personal developer portfolio showcasing projects, skills & achievements. - Fully responsive UI with modern UI/UX design principles. - Central hub linking all repositories and professional profiles. <br>
-
-<br>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
