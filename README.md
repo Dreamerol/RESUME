@@ -74,10 +74,10 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Developed backend services and data pipelines using **Python**, **Java**, and **Clojure**
 - Built REST API integrations supporting internal platform communication and data synchronization
 - Worked on modular backend components following clean architecture principles
-- Contributed to backend integrations, processing workflows, and system reliability
+- Contributed to systems handling **high-volume data processing workflows (X+ events/day)**  
 - Participated in Agile development, code reviews, debugging, and Git-based collaboration
 
-<br>
+ <br>
 
 ### 📝 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡 𝗪𝗢𝗥𝗞
 
