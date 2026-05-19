@@ -145,6 +145,16 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 
 <br>
 
+### 🟢 [𝗝𝗔𝗩𝗔 + 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) (Java, Clojure)
+
+- Designed backend integration system using API-driven architecture  
+- Implemented modular service communication layer for distributed systems  
+- Focused on scalable backend design and maintainable system structure  
+- Worked with event-driven and data synchronization workflows  
+
+- <br>
+
+
 ### 🌐 [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO) (HTML, CSS, JavaScript)
 
 - Built a responsive portfolio showcasing projects and technical work  
