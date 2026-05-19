@@ -64,7 +64,7 @@ Experience building backend systems, data pipelines, and REST API applications u
 
 Focused on backend engineering, data-driven systems, and Applied Machine Learning, with experience working on Neural Networks, predictive analytics, and statistical modeling for real-world problems, alongside scalable and modular software architectures.
 
-<br>
+
 
 ---
 
@@ -93,7 +93,6 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Featured Project: 👉 [𝗝𝗮𝘃𝗮 + 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗔𝗣𝗜 𝗦𝘆𝘀𝘁𝗲𝗺](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
 
-<br>
 
 ---
 
