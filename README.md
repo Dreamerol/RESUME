@@ -66,7 +66,7 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 
 <br>
 
-
+---
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
@@ -113,6 +113,7 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 
 <br>
 
+---
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
@@ -158,6 +159,7 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 
 <br>
 
+---
 
 <p align="center">
   
@@ -232,6 +234,7 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 
 <br>
 
+---
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
@@ -276,7 +279,7 @@ Git, Jupyter Notebook, VS Code, Agile/Scrum, OOP, clean code, modular architectu
 
 <br>
 
-
+---
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
@@ -322,7 +325,6 @@ Oct 2024 – Present
 ## 🏆 𝗔𝗪𝗔𝗥𝗗𝗦
 - **Laureate** — FMI Mathematical National Competition 🥇  
 - **Participant** — National Mathematics & Physics Olympiads 🏅
-
 
 
 ---
