@@ -190,12 +190,6 @@ Contributed to backend integrations, data transfer workflows, and internal platf
   </a>
 </h2>
 
-<br>
-
-<h2 align="center"> <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026" target="_blank" style="text-decoration:none; color:inherit;"> 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 </a> 
-     
-</h2> 
-
 <br> 
 
 ### [🧠 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow) - Designed, trained & evaluated neural networks (~90%+ accuracy). - Implemented **Backpropagation** & **Gradient Descent** from scratch. - Applied ML to dynamic system modeling (SIR model, ODE simulations). 
