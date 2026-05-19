@@ -91,7 +91,7 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 <br>
 
 
-## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦
+## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
 
 **𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦**  
 Neural networks, regression, classification, feature engineering, model evaluation, applied ML pipelines  
@@ -104,20 +104,6 @@ SQL, data modeling, query optimization, pipeline design, structured data process
 
 **𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗔𝗖𝗧𝗜𝗖𝗘𝗦**  
 Clean code, OOP, Git workflows, Agile development, modular system design  
-
-
-
-
-### 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
-
-**𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗜𝗖 𝗣𝗥𝗢𝗕𝗟𝗘 𝗦𝗢𝗟𝗩𝗜𝗡𝗚** ⚙️  
-Building efficient and reusable algorithmic solutions
-
-**𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦** 🔗  
-Building backend integrations and API communication between distributed services
-
-**𝗗𝗔𝗧𝗔 𝗣𝗥𝗢𝗖𝗘𝗦𝗦𝗜𝗡𝗚 𝗣𝗜𝗣𝗘𝗟𝗜𝗡𝗘𝗦** ⚡  
-Designing modular workflows for automation and scalable data processing
 
 <br>
 
