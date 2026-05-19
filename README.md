@@ -45,6 +45,8 @@
 
 ## 📝 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
 
+<br>
+
 
 Software Engineering student at Sofia University “St. Kliment Ohridski” (FMI) with a strong background in algorithms, analytical thinking, and mathematical problem-solving, developed through years of study at Sofia Mathematical High School (SMG).
 
@@ -58,6 +60,7 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 
 ## 💼 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
 
+<br>
 
 ### 🐙 𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡) — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘, 𝗦𝗢𝗙𝗜𝗔 | 𝗦𝗘𝗣 2025 – 𝗙𝗘𝗕 2026
 
