@@ -210,7 +210,7 @@ Oct 2024 – Present
 <br>
 
   
-<h2 align="center"> 
+<h3 align="center"> 
  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
   <em>✨ Click any badge to view project</em></h3>
     </a>
