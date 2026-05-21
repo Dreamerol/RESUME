@@ -336,9 +336,16 @@ Oct 2024 – Present
 
 </div>
 
+
 <br>
-<br>
-<br>
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
+
+
+
 
 
 
