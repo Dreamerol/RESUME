@@ -91,7 +91,6 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Contributed to systems handling **high-volume data processing workflows 
 - Participated in Agile development, code reviews, debugging, and Git-based collaboration
 
- <br>
 
 ### 📝 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡 𝗪𝗢𝗥𝗞
 
@@ -126,7 +125,6 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Improved backend integration workflows and API reliability through modular service design  
 - Contributed to scalable event-driven backend systems and data processing pipelines  
 - Improved maintainability and development efficiency through debugging, code reviews, and Git-based collaboration  
-
 
 
 ### 🧩 𝗧𝗘𝗔𝗠 & 𝗙𝗢𝗖𝗨𝗦 — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
@@ -209,8 +207,6 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Worked with event-driven and data synchronization workflows  
 
 
-
-
 ### 🌐 [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO) (HTML, CSS, JavaScript)
 
 - Built a responsive portfolio showcasing projects and technical work  
@@ -283,7 +279,7 @@ Oct 2024 – Present
 **Sofia Mathematical High School (SMG)** — 2019 – 2024 | GPA: 5.99 / 6.00  
 
 
-<br>
+
 
 
 ## 🏅 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 & 𝗖𝗢𝗨𝗥𝗦𝗘𝗦
@@ -292,7 +288,7 @@ Oct 2024 – Present
 - Python (Fundamentals, Advanced, OOP, Web, Frameworks) — SoftUni 🐍  
 
 
-<br>
+
 
 
 ## 🏆 𝗔𝗪𝗔𝗥𝗗𝗦
