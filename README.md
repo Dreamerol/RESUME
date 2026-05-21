@@ -89,20 +89,22 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 
 ### 🔥 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗜𝗠𝗣𝗔𝗖𝗧
 
-- Improved backend integration workflows and API reliability through modular service design
-- Contributed to scalable event-driven backend systems and data processing pipelines
-- Enhanced maintainability and development efficiency through debugging, code reviews, and Git collaboration
+- Improved backend integration workflows and API reliability through modular service design  
+- Contributed to scalable event-driven backend systems and data processing pipelines  
+- Improved maintainability and development efficiency through debugging, code reviews, and Git-based collaboration  
 
 <br>
 
 ### 🧩 𝗧𝗘𝗔𝗠 & 𝗙𝗢𝗖𝗨𝗦 — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
 
-- Worked on backend integrations, distributed communication flows, and internal platform functionality
-- Contributed to API-driven architectures and scalable backend service development using **Java** and **Clojure**
-- Focused on maintainable system design, modular backend components, and structured data workflows
+- Worked on backend integrations and distributed communication flows across internal platform systems  
+- Contributed to API-driven backend architecture and scalable service development using **Java** and **Clojure**  
+- Focused on modular system design, maintainable backend components, and structured data workflows  
 
-- **Role:** Junior Software Developer Intern
-- **Focus Areas:** Backend Systems • REST APIs • Data Processing • System Integrations
+<br>
+
+- **Role:** Junior Software Developer Intern  
+- **Focus Areas:** Backend Systems • REST APIs • Data Engineering • System Integrations
   
 ---
 
