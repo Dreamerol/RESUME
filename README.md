@@ -183,7 +183,7 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 - Implemented backpropagation and gradient descent from scratch  
 - Applied ML to dynamic system modeling (SIR model, ODE simulations)
 
-<br>
+
 
 ### 💰 [𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)
 
@@ -191,7 +191,7 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 - Conducted EDA, feature engineering, and preprocessing  
 - Implemented regression, decision trees, and time series models
 
-<br>
+
 
 ### 💊 [𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) (Python, Pandas, Matplotlib, NumPy)
 
@@ -199,7 +199,7 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 - Conducted hypothesis testing (p < 0.05) and correlation analysis  
 - Built preprocessing pipelines and visualization workflows
 
-<br>
+
 
 ### 📦 [𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗗𝗔𝗧𝗔 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) (SQL)
 
@@ -207,7 +207,7 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 - Optimized SQL queries, improving performance by ~30%  
 - Supported KPI tracking and reporting workflows
 
-<br>
+
 
 ### 🟢 [𝗝𝗔𝗩𝗔 + 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) (Java, Clojure)
 
@@ -216,7 +216,7 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 - Focused on scalable backend design and maintainable system structure  
 - Worked with event-driven and data synchronization workflows  
 
-<br>
+
 
 
 ### 🌐 [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO) (HTML, CSS, JavaScript)
