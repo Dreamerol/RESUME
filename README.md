@@ -135,8 +135,6 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Contributed to API-driven architectures and scalable backend service development using **Java** and **Clojure**
 - Focused on maintainable system design, modular backend components, and structured data workflows
 
-<br>
-
 - **Role:** Junior Software Developer Intern
 - **Focus Areas:** Backend Systems • REST APIs • Data Processing • System Integrations
   
