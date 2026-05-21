@@ -339,17 +339,15 @@ Oct 2024 – Present
 
 <br>
 
-<div align="center">
+<p align="center">
+  🔗 Explore more on my GitHub portfolio: 
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026" target="_blank">
+    github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026
+  </a>
+  
+</p>
 
-## 🔗 Explore more
-<a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-👉 GitHub Portfolio
-</a>
-
-</div>
-
-
-
+<br>
 
 
 
