@@ -17,8 +17,20 @@
 
 ---
 
-<div align="center">✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠 🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> 🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a> 🧩 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">𝗠𝗬 𝗥𝗘𝗣𝗢𝗦</a> 👉 <a href="https://github.com/Dreamerol/GITHUB-STATS"><b>𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b></a></div>
+<div align="center" style="white-space:nowrap;">
 
+<span style="font-size:1.15em;">
+
+✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠 • 
+🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> • 
+🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> • 
+🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a> • 
+🧩 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">𝗠𝗬 𝗥𝗘𝗣𝗢𝗦</a> • 
+👉 <a href="https://github.com/Dreamerol/GITHUB-STATS"><b>𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b></a>
+
+</span>
+
+</div>
 
 ---
 
