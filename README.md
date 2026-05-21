@@ -52,6 +52,8 @@ Experience building backend systems, data pipelines, and REST API applications u
 
 Focused on backend engineering, data-driven systems, and Applied Machine Learning, with experience working on Neural Networks, predictive analytics, and statistical modeling for real-world problems, alongside scalable and modular software architectures.
 
+<br>
+
 ---
 
 <p align="center">
@@ -94,6 +96,8 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Worked on scalable service integration patterns and event-driven architectures
 - Supported production backend systems used in internal platform operations   
 - Featured System: Java + Clojure Backend API System  : 👉 [𝗝𝗮𝘃𝗮 + 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗔𝗣𝗜 𝗦𝘆𝘀𝘁𝗲𝗺](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
+
+  <br>
 
 ---
 
@@ -139,6 +143,7 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡)  
 𝗙𝗢𝗖𝗨𝗦: **Java**, **Clojure**, Backend Systems & REST API Integrations
 
+<br>
 
 ---
 
@@ -220,6 +225,8 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 - Designed modular UI components with interactive navigation  
 - Centralized projects, skills, and professional profiles
 
+<br>
+
 ---
 
 <p align="center">
@@ -259,6 +266,7 @@ Contributed to backend integrations, data transfer workflows, and internal platf
 **𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗔𝗖𝗧𝗜𝗖𝗘𝗦**  
 • Clean code, OOP, Git workflows, Agile development, modular system design  
 
+<br>
 
 ---
 
@@ -306,6 +314,7 @@ Oct 2024 – Present
 - **Laureate** — FMI Mathematical National Competition 🥇  
 - **Participant** — National Mathematics & Physics Olympiads 🏅
 
+<br>
 
 ---
 
