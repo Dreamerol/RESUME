@@ -127,7 +127,7 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Contributed to scalable event-driven backend systems and data processing pipelines  
 - Improved maintainability and development efficiency through debugging, code reviews, and Git-based collaboration  
 
-<br>
+
 
 ### 🧩 𝗧𝗘𝗔𝗠 & 𝗙𝗢𝗖𝗨𝗦 — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
 
@@ -135,7 +135,6 @@ Focused on backend engineering, data-driven systems, and Applied Machine Learnin
 - Contributed to API-driven backend architecture and scalable service development using **Java** and **Clojure**  
 - Focused on modular system design, maintainable backend components, and structured data workflows  
 
-<br>
 
 - **Role:** Junior Software Developer Intern  
 - **Focus Areas:** Backend Systems • REST APIs • Data Engineering • System Integrations
