@@ -72,7 +72,6 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 - Contributed to systems handling **high-volume data processing workflows 
 - Participated in Agile development, code reviews, debugging, and Git-based collaboration
 
-  <br>
 
 
 ### 📝 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡 𝗪𝗢𝗥𝗞
