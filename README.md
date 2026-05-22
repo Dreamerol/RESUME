@@ -82,7 +82,6 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 - Supported production backend systems used in internal platform operations   
 - Featured System: Java + Clojure Backend API System  : 👉 [𝗝𝗮𝘃𝗮 + 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗔𝗣𝗜 𝗦𝘆𝘀𝘁𝗲𝗺](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
-<br>
 
 ---
 
@@ -122,8 +121,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 - **Focus Areas:** Backend Systems • REST APIs • Data Engineering • System Integrations
 
 
-  <br>
-  
+ 
 ---
 
 <p align="center">
@@ -200,7 +198,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 - Designed modular UI components with interactive navigation  
 - Centralized projects, skills, and professional profiles
 
-<br>
+
 
 ---
 
@@ -239,7 +237,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 **𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗔𝗖𝗧𝗜𝗖𝗘𝗦**  
 • Clean code, OOP, Git workflows, Agile development, modular system design  
 
-<br>
+
 
 ---
 
@@ -284,7 +282,7 @@ Oct 2024 – Present
 - **Laureate** — FMI Mathematical National Competition 🥇  
 - **Participant** — National Mathematics & Physics Olympiads 🏅
 
-  <br>
+
 
 
 ---
