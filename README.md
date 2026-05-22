@@ -59,8 +59,6 @@ Built scalable systems, data pipelines, and REST APIs using **Java** and **Cloju
 
 Focused on distributed systems, data-driven engineering, and applied machine learning, including neural networks, predictive analytics, and statistical modeling for real-world applications.
 
-<br>
-
 
 ## 💼 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
 
