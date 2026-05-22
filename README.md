@@ -59,6 +59,7 @@ Built scalable systems, data pipelines, and REST APIs using **Java** and **Cloju
 
 Focused on distributed systems, data-driven engineering, and applied machine learning, including neural networks, predictive analytics, and statistical modeling for real-world applications.
 
+<br>
 
 ## 💼 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
 
@@ -261,7 +262,7 @@ Oct 2024 – Present
 **Sofia Mathematical High School (SMG)** — 2019 – 2024 | GPA: 5.99 / 6.00  
 
 
-
+<br>
 
 
 ## 🏅 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 & 𝗖𝗢𝗨𝗥𝗦𝗘𝗦
@@ -270,7 +271,7 @@ Oct 2024 – Present
 - Python (Fundamentals, Advanced, OOP, Web, Frameworks) — SoftUni 🐍  
 
 
-
+<br>
 
 
 ## 🏆 𝗔𝗪𝗔𝗥𝗗𝗦
