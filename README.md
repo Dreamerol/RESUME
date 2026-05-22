@@ -53,11 +53,11 @@
 
 ## 📝 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
 
-Software Engineering student at Sofia University “St. Kliment Ohridski” (FMI) with a strong background in algorithms, analytical thinking, and mathematical problem-solving, developed through studies at Sofia Mathematical High School (SMG).
+Software Engineering student at Sofia University “St. Kliment Ohridski” (FMI) with strong foundations in algorithms, mathematics, and analytical problem-solving (Sofia Mathematical High School, SMG).
 
-Experience in building backend systems, data pipelines, and REST API services using **Python**, **Java**, and **Clojure**, strengthened through a Junior Software Developer Intern role at ZigiWave.
+Built scalable backend systems, data pipelines, and REST APIs using Python, Java, and Clojure during a Junior Software Engineer internship at ZigiWave.
 
-Focused on backend engineering, data-driven systems, and applied machine learning, with experience in neural networks, predictive analytics, and statistical modeling for real-world problems, alongside scalable and modular software architectures.
+Focused on distributed systems, data-driven engineering, and applied machine learning, including neural networks, predictive analytics, and statistical modeling for real-world applications.
 
 <br>
 
