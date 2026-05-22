@@ -103,7 +103,7 @@ Focused on backend engineering, data-driven systems, and applied machine learnin
 
 ### 🔥 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗜𝗠𝗣𝗔𝗖𝗧
 
-- Improved backend integration workflows and API reliability through modular service design  
+- Improved backend integration workflows, reducing API failure rate and improving reliability through modular service design
 - Contributed to scalable event-driven backend systems and data processing pipelines  
 - Improved maintainability and development efficiency through debugging, code reviews, and Git-based collaboration
 
