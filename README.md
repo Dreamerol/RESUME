@@ -221,7 +221,6 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 ## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
 
-<br>
 
 **𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦**  
 • Neural networks, regression, classification, feature engineering, model evaluation, applied ML pipelines  
