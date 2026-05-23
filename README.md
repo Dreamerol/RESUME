@@ -328,7 +328,7 @@ Oct 2024 – Present
 
 <p align="center">
   <a href="./GITHUB-PORTFOLIO_MIHAELA_KOSEVA.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/PDF-INFO-6B7280?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PDF-6B7280?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
   <a href="./GITHUB-PORTFOLIO_MIHAELA_KOSEVA.pdf" target="_blank">
     <img src="https://img.shields.io/badge/DOWNLOAD-ff6a00?style=for-the-badge&logo=download&logoColor=white"/>
