@@ -314,20 +314,6 @@ Oct 2024 – Present
 
 <p align="center">
   <a href="./GITHUB-PORTFOLIO_MIHAELA_KOSEVA.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/PDF%20%2F%20DOWNLOAD-ff6a00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-  <a href="./GITHUB-PORTFOLIO_MIHAELA_KOSEVA.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-OPEN-ff6a00?style=for-the-badge"/>
-  </a>
-  <a href="./GITHUB_PORTFOLIO_CARDS_MIHAELA_KOSEVA.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/PROJECTS-OPEN-ff6a00?style=for-the-badge"/>
-  </a>
-</p>
-
-
-
-<p align="center">
-  <a href="./GITHUB-PORTFOLIO_MIHAELA_KOSEVA.pdf" target="_blank">
     <img src="https://img.shields.io/badge/PDF-6B7280?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
   <a href="./GITHUB-PORTFOLIO_MIHAELA_KOSEVA.pdf" target="_blank">
