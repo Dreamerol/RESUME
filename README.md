@@ -306,6 +306,11 @@ Oct 2024 – Present
   <img src="https://img.shields.io/badge/PORTFOLIO-OPEN-2ECC71?style=for-the-badge"/>
 </a>
 
+
+<a href="https://github.com/Dreamerol/RESUME-03-2026/raw/main/GITHUB_PORTFOLIO_CARDS_MIHAELA_KOSEVA.pdf" target="_blank">
+  🟢 View / Download Resume (PDF)
+</a>
+
 <br>
 
 <p align="center">
