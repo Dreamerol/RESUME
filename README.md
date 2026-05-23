@@ -307,7 +307,7 @@ Oct 2024 – Present
     <img src="https://img.shields.io/badge/PORTFOLIO-OPEN-2ECC71?style=for-the-badge"/>
   </a>
   <a href="./GITHUB_PORTFOLIO_CARDS_MIHAELA_KOSEVA.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/RESUME-OPEN-2ECC71?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/CARDS-OPEN-2ECC71?style=for-the-badge"/>
   </a>
 </p>
 
