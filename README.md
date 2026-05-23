@@ -298,7 +298,7 @@ Oct 2024 – Present
 
 </div>
 
----
+<br>
 
 
 <p align="center">
@@ -309,7 +309,7 @@ Oct 2024 – Present
   
 </p>
 
-<br>
+
 
 <br>
 <br>
