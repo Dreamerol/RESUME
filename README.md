@@ -311,9 +311,7 @@ Oct 2024 – Present
 
 <br>
 
----
 
-<br>
 
 <p align="center">
   <a href="./GITHUB-PORTFOLIO_MIHAELA_KOSEVA.pdf" target="_blank">
