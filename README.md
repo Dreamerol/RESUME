@@ -298,11 +298,13 @@ Oct 2024 – Present
 
 </div>
 
+---
 
-<a href="[portfolio.pdf](GITHUB-PORTFOLIO_MIHAELA_KOSEVA.pdf)" target="_blank">
-  📄 View / Download Portfolio (PDF)
+<br>
+
+<a href="./GITHUB-PORTFOLIO_MIHAELA_KOSEVA.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-OPEN-2ECC71?style=for-the-badge"/>
 </a>
-
 
 <br>
 
