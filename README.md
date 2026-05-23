@@ -299,7 +299,7 @@ Oct 2024 – Present
 </div>
 
 
-<a href="portfolio.pdf" target="_blank">
+<a href="[portfolio.pdf](https://github.com/Dreamerol/RESUME-03-2026/blob/f60a3c890ae4d0ee195d4c624b8d7f44fd1b7312/GITHUB-PORTFOLIO_MIHAELA_KOSEVA.pdf)" target="_blank">
   📄 View / Download Portfolio (PDF)
 </a>
 
