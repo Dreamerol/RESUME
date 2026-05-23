@@ -299,6 +299,11 @@ Oct 2024 – Present
 </div>
 
 
+<a href="portfolio.pdf" target="_blank">
+  📄 View / Download Portfolio (PDF)
+</a>
+
+
 <br>
 
 <p align="center">
