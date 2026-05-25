@@ -10,9 +10,9 @@
 </h1>
 
 
-<h1 align="center">
+<h2 align="center">
 Data & Software Engineer │ Applied ML ∫ data → systems ✨
-</h1>
+</h2>
 
 
 ---
