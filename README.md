@@ -9,12 +9,12 @@
   </a>
 </h1>
 
-## <a href="https://www.uni-sofia.bg" target="_blank">𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</a>
 
 <h2 align="center">
 Data & Software Engineer • Applied ML ∫ data → systems ✨
 </h2>
 
+## <a href="https://www.uni-sofia.bg" target="_blank">𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</a>
 
 ---
 
