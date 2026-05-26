@@ -11,7 +11,7 @@
 
 
 <h2 align="center">
-Data & Software Engineer • Applied ML ∫ data → systems ✨
+Data Analyst & Software Engineer • Applied ML ∫ data → systems ✨
 </h2>
 
 
