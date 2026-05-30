@@ -14,6 +14,8 @@
 Data & Software Engineer • Applied ML ∫ data → systems → insights ✨
 </h2>
 
+## 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 • 𝗦𝗪𝗘 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 ∫ 𝗱𝗮𝘁𝗮 → 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 ✨
+
 <br>
 
 
