@@ -21,7 +21,7 @@ Data & Software Engineer • Applied ML ∫ data → systems → insights ✨
 
 <span style="font-size:1.15em;">
 
-📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 • 
+
 ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠 • 
 🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> • 
 🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> • 
