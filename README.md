@@ -15,7 +15,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 </h2>
 
 
-<br>
+
 
 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
   <img 
@@ -24,7 +24,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
   />
 </a>
 
-<br><br>
+<br>
 
 
 
