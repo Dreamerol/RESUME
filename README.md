@@ -18,16 +18,10 @@ Data & Software Engineer • Applied ML ∫ data → systems → insights ✨
 <br>
 
 
-<a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/dc34d1b8ce46004b3eb9ca22e591ccf215d6689f/BANNER-DATA33.JPG" 
-    style="width:100%; height:auto; display:block;"
-  />
-</a>
 
 
 
-<br><br>
+
 
 
 
