@@ -14,7 +14,7 @@
 Data & Software Engineer • Applied ML ∫ data → systems → insights ✨
 </h2>
 
-
+<br>
 
 
 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
