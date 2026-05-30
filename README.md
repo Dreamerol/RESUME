@@ -19,7 +19,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 <br>
 
-[![banner](https://raw.githubusercontent.com/Dreamerol/Dreamerol/00daa204569d6385569ca92610f800922e71f026/Banner%20DATA%20SWE.jpg)](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026)
+[![banner](https://github.com/Dreamerol/Dreamerol/blob/dc34d1b8ce46004b3eb9ca22e591ccf215d6689f/BANNER-DATA33.JPG)](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026)
 
 <br>
 
