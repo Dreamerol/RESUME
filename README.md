@@ -24,10 +24,9 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
   />
 </a>
 
-<br>
+<br><br>
 
 
----
 
 <div align="center" style="white-space:nowrap;">
 
