@@ -15,6 +15,27 @@ Data & Software Engineer • Applied ML ∫ data → systems → insights ✨
 </h2>
 
 
+<br><br>
+
+
+<div align="center">
+
+
+<a>
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true" />
+</a>
+
+
+</div>
+
+
+
+
+<br>
+
+
+
+
 ---
 
 <div align="center" style="white-space:nowrap;">
