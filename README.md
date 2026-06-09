@@ -346,14 +346,14 @@ Oct 2024 – Present
 
 <p style="font-size:12px; line-height:1.6; letter-spacing:0.2px;">
 
-Mihaela Koseva (Михаела Косева) • AI • Software Engineer • Data Science • Data Systems & APIs • Backend Engineer • AI Engineer • Applied Machine Learning • Deep Learning • Predictive Modeling • Neural Networks • Model Training • Data Pipelines • LLMs • Python • Java • C++ • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps • Model Deployment
+Mihaela Koseva (Михаела Косева) • AI • Software Engineer • Data Systems & APIs • Backend Engineer • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • Java • C++ • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps • Model Deployment
 
 </p>
 
 </div>
 
 
-🔗 Explore more on my GitHub: https://github.com/dreamerol
+
 
 
 
