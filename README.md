@@ -50,13 +50,15 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 </div>
 
+
+
 ---
 
 
 
 
 
-<div align="center">
+
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-4F8CFF?style=for-the-badge&logo=python&logoColor=white" />
@@ -71,10 +73,6 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 </p>
 
 </div>
-
-
-
-
 
 
 
