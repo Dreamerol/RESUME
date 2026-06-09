@@ -353,7 +353,7 @@ Mihaela Koseva (Михаела Косева) • AI • Software Engineer • Da
  
   <p style="font-size:10px; opacity:0.7;">
   🔗 Explore more on my GitHub profile:
-  <a href="https://github.com/Dreamerol">Mihaela Koseva • Dreamerol • GitHub</a>
+  <a href="https://github.com/Dreamerol">GitHub : Dreamerol • Mihaela Koseva (Михаела Косева)</a>
 </p>
  </div> 
   
