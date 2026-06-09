@@ -30,10 +30,10 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
-<br><br>
+<br>
 
 
-
+---
 
 <div align="center" style="white-space:nowrap;">
 
