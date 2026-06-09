@@ -349,22 +349,15 @@ Oct 2024 – Present
 Mihaela Koseva (Михаела Косева) • AI • Software Engineer • Data Systems & APIs • Backend Engineer • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
 
 </p>
-
  
   <p style="font-size:10px; opacity:0.7;">
-  🔗 Explore more on my GitHub profile:
+  🔗 Explore more on GitHub:
   <a href="https://github.com/Dreamerol">GitHub : Dreamerol • Mihaela Koseva (Михаела Косева)</a>
 </p>
  </div> 
   
   
-  <p style="font-size:10px; opacity:0.7;">
-    🔗 Explore more on my GitHub profile: 
-    <a href="https://github.com/dreamerol">GitHub.com: Dreamerol</a>
-  </p>
-</div>
-
-
+ 
 
 
 
