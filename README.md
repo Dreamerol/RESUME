@@ -54,6 +54,36 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
+
+<div align="center">
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-6366F1?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-A78BFA?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-EC4899?style=for-the-badge" />
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-8B5CF6?style=for-the-badge" />
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-3B82F6?style=for-the-badge" />
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-60A5FA?style=for-the-badge" />
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <p>
