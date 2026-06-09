@@ -53,6 +53,40 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 ---
 
 
+
+<div align="center">
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-00B4FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-7C4DFF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-8E2DE2?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-00C2FF?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-FF2DAA?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF4D6D?style=for-the-badge" />
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-A855F7?style=for-the-badge" />
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-3B82F6?style=for-the-badge" />
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-EC4899?style=for-the-badge" />
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-4F8CFF?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-6C63FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
