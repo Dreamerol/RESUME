@@ -342,6 +342,19 @@ Oct 2024 – Present
 <br>
 
 
+Mihaela Koseva • Software Engineer focused on Data Systems, APIs, and Applied Machine Learning.
+
+I work on building scalable backend systems, data pipelines, and machine learning models that turn data into usable systems and predictions.
+
+Core focus areas: Machine Learning, Deep Learning, Predictive Modeling, Neural Networks, Data Engineering, Backend Systems, API Development.
+
+Languages & tools: Python, C++, SQL.
+
+🔗 Explore more on my GitHub: https://github.com/dreamerol
+
+
+
+
 
 <div align="center">
   <p style="font-size:12px; line-height:1.6; letter-spacing:0.2px;">
