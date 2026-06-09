@@ -15,7 +15,7 @@ Data & Software Engineer • Applied ML ∫ data → systems → insights ✨
 </h2>
 
 
-<br><br>
+
 
 
 <div align="center">
@@ -36,7 +36,6 @@ Data & Software Engineer • Applied ML ∫ data → systems → insights ✨
 
 
 
----
 
 <div align="center" style="white-space:nowrap;">
 
