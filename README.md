@@ -346,15 +346,7 @@ Oct 2024 – Present
 
 <p style="font-size:12px; line-height:1.6; letter-spacing:0.2px;">
 
-Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Backend Engineer • Applied Machine Learning • Data Science • Data Systems & APIs<br><br>
-
-Machine Learning • Deep Learning • Neural Networks • Predictive Modeling • Model Training • Feature Engineering • Model Evaluation • Generative AI • LLMs • System Design • Distributed Systems • API Development • Backend Architecture • Data Engineering • Data Pipelines<br><br>
-
-Python • Java • C++ • Clojure • SQL<br><br>
-
-AI/ML Stack: PyTorch • TensorFlow • Keras • Scikit-learn • Hugging Face • Transformers • Pandas • NumPy • OpenCV<br><br>
-
-Systems & Data: ETL • Data Modeling • Data Warehousing • Stream Processing • Batch Processing • MLOps • Model Deployment
+Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Backend Engineer • Applied Machine Learning • Data Science • Data Systems & APIs • Machine Learning • Deep Learning • Neural Networks • Predictive Modeling • Model Training • Feature Engineering • Model Evaluation • Generative AI • LLMs • System Design • Distributed Systems • API Development • Backend Architecture • Data Engineering • Data Pipelines • Python • Java • C++ • Clojure • SQL • AI/ML Stack: PyTorch • TensorFlow • Keras • Scikit-learn • Hugging Face • Transformers • Pandas • NumPy • OpenCV • Systems & Data: ETL • Data Modeling • Data Warehousing • Stream Processing • Batch Processing • MLOps • Model Deployment
 
 </p>
 
