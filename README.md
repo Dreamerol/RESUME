@@ -346,7 +346,8 @@ Oct 2024 – Present
 
 <p style="font-size:12px; line-height:1.6; letter-spacing:0.2px;">
 
-Mihaela Koseva (Михаела Косева) • AI • Software Engineer • Data Systems & APIs • Backend Engineer • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • Java • C++ • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps • Model Deployment • <a href="https://github.com/dreamerol">GitHub: dreamerol</a>
+Mihaela Koseva (Михаела Косева) • AI • Software Engineer • Data Systems & APIs • Backend Engineer • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • Java • C++ • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps • Model Deployment • 🔗 Explore more on: <a href="https://github.com/dreamerol">GitHub: Dreamerol</a>
+<a href="https://github.com/dreamerol">GitHub: dreamerol</a>
 
 </p>
 
