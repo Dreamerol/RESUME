@@ -396,6 +396,36 @@ Oct 2024 – Present
 </a>
 
 
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+  <img height="65" src="https://img.shields.io/badge/Linux%20Toolkit-6C63FF?style=for-the-badge&logo=linux&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+  <img height="65" src="https://img.shields.io/badge/Algorithms-4F8CFF?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+  <img height="65" src="https://img.shields.io/badge/Databases-3A0CA3?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+  <img height="65" src="https://img.shields.io/badge/SQL%20System-5C7CFF?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+  <img height="65" src="https://img.shields.io/badge/Web%20Systems-6C63FF?style=for-the-badge&logo=django&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+  <img height="65" src="https://img.shields.io/badge/Java%20API-7B2CBF?style=for-the-badge&logo=java&logoColor=white"/>
+</a>
+
+
+
+
+
+
+
 
 
 <a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
@@ -422,6 +452,11 @@ Oct 2024 – Present
 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
   <img height="65" src="https://img.shields.io/badge/Java%20API-1D3557?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
+
+
+
+
+
 
 
 
