@@ -322,21 +322,103 @@ Oct 2024 – Present
 
 ---
 
-<div align="center">
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-4F8CFF?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-6C63FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-3A86FF?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-B5179E?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF4D8D?style=for-the-badge" />
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-7B2CBF?style=for-the-badge" />
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-4361EE?style=for-the-badge" />
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-9D4EDD?style=for-the-badge" />
+<br>
+
+
+<h2 align="center"> 
+ 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
+  <em>Core SWE & Data Projects →</em>
+ </a>
+</h2>
+
+
+<br>
+
+
+<p align="center">
+
+<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
+  <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
+  <img height="65" src="https://img.shields.io/badge/Rummikub%20Game-8A2BE2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+  <img height="65" src="https://img.shields.io/badge/Poker%20Game-6A5ACD?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+  <img height="65" src="https://img.shields.io/badge/Databases-1F6FEB?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+  <img height="65" src="https://img.shields.io/badge/Algorithms-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+  <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-FF8C00?style=for-the-badge&logo=atom&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+  <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+  <img height="65" src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+  <img height="65" src="https://img.shields.io/badge/Java%20Clojure%20API-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+  <img height="65" src="https://img.shields.io/badge/Book%20Catalog%20Django-6B7280?style=for-the-badge&logo=django&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+  <img height="65" src="https://img.shields.io/badge/Linux%20Toolkit-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
+  <img height="65" src="https://img.shields.io/badge/Profit%20Predictor-FF2E97?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+  <img height="65" src="https://img.shields.io/badge/Web%20Systems-1F6FEB?style=for-the-badge&logo=django&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+  <img height="65" src="https://img.shields.io/badge/Polynomial%20Calculator-FF69B4?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
+  <img height="65" src="https://img.shields.io/badge/ML%20Analysis-FF4081?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+  <img height="65" src="https://img.shields.io/badge/SQL%20System-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+  <img height="65" src="https://img.shields.io/badge/OOP%20Design-2E8B57?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER">
+  <img height="65" src="https://img.shields.io/badge/Automata%20Converter-8A2BE2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
+  <img height="65" src="https://img.shields.io/badge/LMS%20System-00BFFF?style=for-the-badge"/>
+</a>
+
 </p>
 
 </div>
+
+
 
 
 <br>
@@ -364,8 +446,11 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
+<br>
 
-<br><br>
+
+
+
 
 
 
