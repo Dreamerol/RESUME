@@ -386,13 +386,13 @@ Oct 2024 – Present
   <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-7B2CBF?style=for-the-badge"/>
 </a>
 
-<!-- 🟣 CENTER (CS CORE / BRIDGE) -->
+
 <a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER">
   <img height="65" src="https://img.shields.io/badge/Automata-6C63FF?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-  <img height="65" src="https://img.shields.io/badge/OOP%20Design-6C63FF?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/OOP%20Design-B5179E?style=for-the-badge"/>
 </a>
 
 
