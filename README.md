@@ -13,7 +13,7 @@
 Data & Software Engineer • Applied ML ∫ data → systems ✨
 </h2>
 
-
+</div>
 
 
 <br>
@@ -78,11 +78,8 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
-
-
-
-
 <br>
+
 
 ## 📝 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
 
