@@ -338,7 +338,6 @@ Oct 2024 – Present
 
 
 
-
 <p align="center">
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
@@ -423,7 +422,8 @@ Oct 2024 – Present
 </div>
 
 
-<br><br>
+
+<br>
 
 
 
@@ -449,7 +449,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-<br>
+<br><br>
 
 
 
