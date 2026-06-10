@@ -324,27 +324,6 @@ Oct 2024 – Present
 
 
 
-
-
-
-
-
-
-
-<h2 align="center"> 
- 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
-  <em>Core SWE & Data Projects →</em>
- </a>
-</h2>
-
-
-
-
-
-<br>
-
-
-
 <p align="center">
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
@@ -431,6 +410,15 @@ Oct 2024 – Present
 
 
 <br>
+
+
+
+
+<h2 align="center"> 
+ 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
+  <em>Core SWE & Data Projects →</em>
+ </a>
+</h2>
 
 
 
