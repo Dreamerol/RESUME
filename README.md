@@ -420,54 +420,12 @@ Oct 2024 – Present
   <img height="65" src="https://img.shields.io/badge/Java%20API-7B2CBF?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 
-
-
-
-
-
-
-
-
-<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-  <img height="65" src="https://img.shields.io/badge/Linux%20Toolkit-6C63FF?style=for-the-badge&logo=linux&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-  <img height="65" src="https://img.shields.io/badge/Algorithms-3A0CA3?style=for-the-badge"/>
-</a>
-
-<!-- 🔵 DATA / BACKEND (mirror middle base) -->
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-  <img height="65" src="https://img.shields.io/badge/Databases-1D3557?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
-  <img height="65" src="https://img.shields.io/badge/SQL%20System-1D3557?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
-  <img height="65" src="https://img.shields.io/badge/Web%20Systems-1D3557?style=for-the-badge&logo=django&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-  <img height="65" src="https://img.shields.io/badge/Java%20API-1D3557?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-
-
-
-
-
-
-
-
-
 <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-  <img height="65" src="https://img.shields.io/badge/Book%20Catalog-1D3557?style=for-the-badge&logo=django&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Book%20Catalog-3A0CA3?style=for-the-badge&logo=django&logoColor=white"/>
 </a>
-
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
-  <img height="65" src="https://img.shields.io/badge/Java%20Calculator-9D4EDD?style=for-the-badge&logo=java&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Java%20Calculator-1D3557?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
