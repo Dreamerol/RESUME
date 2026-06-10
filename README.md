@@ -364,6 +364,37 @@ Oct 2024 – Present
 
 
 
+<div align="center">
+
+<p>
+  <!-- TOP (ML mirror start) -->
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-B5179E?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-9D4EDD?style=for-the-badge" />
+
+  <!-- MIDDLE (CS CORE - pivot mirror center) -->
+  <img alt="Java" src="https://img.shields.io/badge/Java-7B2CBF?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-8A2BE2?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-6C63FF?style=for-the-badge" />
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge" />
+
+  <!-- BOTTOM (mirror back → backend/data) -->
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-7B2CBF?style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-B5179E?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -453,87 +484,6 @@ Oct 2024 – Present
 
 
 
-
-
-
-
-
-
-<p align="center">
-
-<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
-  <img height="65" src="https://img.shields.io/badge/Java%20Calculator-1B4332?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-  <img height="65" src="https://img.shields.io/badge/Rummikub%20Game-1B4332?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
-  <img height="65" src="https://img.shields.io/badge/Poker%20Game-1B4332?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-  <img height="65" src="https://img.shields.io/badge/Algorithms-1B4332?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-  <img height="65" src="https://img.shields.io/badge/OOP%20Design-1B4332?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-  <img height="65" src="https://img.shields.io/badge/Linux%20Toolkit-1B4332?style=for-the-badge&logo=linux&logoColor=white"/>
-</a>
-
-
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-  <img height="65" src="https://img.shields.io/badge/Databases-1D3557?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
-  <img height="65" src="https://img.shields.io/badge/SQL%20System-1D3557?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
-  <img height="65" src="https://img.shields.io/badge/Web%20Systems-1D3557?style=for-the-badge&logo=django&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-  <img height="65" src="https://img.shields.io/badge/Java%20Clojure%20API-1D3557?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-  <img height="65" src="https://img.shields.io/badge/Book%20Catalog-1D3557?style=for-the-badge&logo=django&logoColor=white"/>
-</a>
-
-
-<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-  <img height="65" src="https://img.shields.io/badge/Neural%20Networks-3C096C?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
-  <img height="65" src="https://img.shields.io/badge/Profit%20Predictor-3C096C?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
-  <img height="65" src="https://img.shields.io/badge/ML%20Analysis-3C096C?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
-  <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-3C096C?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER">
-  <img height="65" src="https://img.shields.io/badge/Automata-3C096C?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
-  <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-3C096C?style=for-the-badge&logo=atom&logoColor=white"/>
-</a>
-
-</p>
-
-</div>
 
 
 
