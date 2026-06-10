@@ -369,7 +369,7 @@ Oct 2024 – Present
 
 <div align="center">
 
-<!-- 🩷🟪 ML / INTELLIGENCE (left top mirror start) -->
+
 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
   <img height="65" src="https://img.shields.io/badge/Neural%20Networks-B5179E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </a>
@@ -417,7 +417,7 @@ Oct 2024 – Present
 </a>
 
 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-  <img height="65" src="https://img.shields.io/badge/Java%20API-7B2CBF?style=for-the-badge&logo=java&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Java%20API-4F8CFF?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
