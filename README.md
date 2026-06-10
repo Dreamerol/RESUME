@@ -346,6 +346,8 @@ Oct 2024 – Present
 
 
 
+
+
 <p align="center">
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
@@ -361,7 +363,7 @@ Oct 2024 – Present
 </a>
 
 <a href="https://github.com/Dreamerol/DATABASES-SQL">
-  <img height="65" src="https://img.shields.io/badge/Databases-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Databases-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
@@ -381,11 +383,11 @@ Oct 2024 – Present
 </a>
 
 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-  <img height="65" src="https://img.shields.io/badge/Java%20Clojure%20API-8B5CF6?style=for-the-badge&logo=java&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/API%20System-8B5CF6?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-  <img height="65" src="https://img.shields.io/badge/Book%20Catalog%20Django-6D28D9?style=for-the-badge&logo=django&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Django%20App-6D28D9?style=for-the-badge&logo=django&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
@@ -401,7 +403,7 @@ Oct 2024 – Present
 </a>
 
 <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
-  <img height="65" src="https://img.shields.io/badge/Polynomial%20Calculator-C084FC?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/Calculator-8A5CF6?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
@@ -413,18 +415,19 @@ Oct 2024 – Present
 </a>
 
 <a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-  <img height="65" src="https://img.shields.io/badge/OOP%20Design-8B5CF6?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/OOP%20Design-7C3AED?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER">
-  <img height="65" src="https://img.shields.io/badge/Automata%20Converter-9D4EDD?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/Automata-9D4EDD?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
-  <img height="65" src="https://img.shields.io/badge/LMS%20System-7C3AED?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/LMS%20System-7B2CBF?style=for-the-badge"/>
 </a>
 
 </p>
+
 
 
 </div>
