@@ -430,7 +430,7 @@ Oct 2024 – Present
 </a>
 
 <a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-  <img height="65" src="https://img.shields.io/badge/Rummikub%20Game-1B4332?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/Rummikub%20Game-7B2CBF?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
