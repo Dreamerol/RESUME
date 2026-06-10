@@ -392,7 +392,7 @@ Oct 2024 – Present
 </a>
 
 <a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-  <img height="65" src="https://img.shields.io/badge/OOP%20Design-B5179E?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/OOP%20Design-7B2CBF?style=for-the-badge"/>
 </a>
 
 
