@@ -366,6 +366,97 @@ Oct 2024 – Present
 
 
 
+<div align="center">
+
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+  <img height="65" src="https://img.shields.io/badge/Neural%20Networks-B5179E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
+  <img height="65" src="https://img.shields.io/badge/Profit%20Predictor-A855F7?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
+  <img height="65" src="https://img.shields.io/badge/ML%20Analysis-9D4EDD?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+  <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-8A2BE2?style=for-the-badge"/>
+</a>
+
+
+<a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER">
+  <img height="65" src="https://img.shields.io/badge/Automata-7B2CBF?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+  <img height="65" src="https://img.shields.io/badge/OOP%20Design-6C63FF?style=for-the-badge"/>
+</a>
+
+
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+  <img height="65" src="https://img.shields.io/badge/Linux%20Toolkit-5C7CFF?style=for-the-badge&logo=linux&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+  <img height="65" src="https://img.shields.io/badge/Algorithms-4F8CFF?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+  <img height="65" src="https://img.shields.io/badge/Databases-3A86FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+  <img height="65" src="https://img.shields.io/badge/SQL%20System-3A86FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+  <img height="65" src="https://img.shields.io/badge/Web%20Systems-4F8CFF?style=for-the-badge&logo=django&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+  <img height="65" src="https://img.shields.io/badge/Java%20API-5C7CFF?style=for-the-badge&logo=java&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+  <img height="65" src="https://img.shields.io/badge/Book%20Catalog-6C63FF?style=for-the-badge&logo=django&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
+  <img height="65" src="https://img.shields.io/badge/Rummikub%20Game-7B2CBF?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+  <img height="65" src="https://img.shields.io/badge/Poker%20Game-8A2BE2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+  <img height="65" src="https://img.shields.io/badge/OOP%20Design-9D4EDD?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+  <img height="65" src="https://img.shields.io/badge/Linux%20Toolkit-B5179E?style=for-the-badge&logo=linux&logoColor=white"/>
+</a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
 
