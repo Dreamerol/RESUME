@@ -424,10 +424,6 @@ Oct 2024 – Present
   <img height="65" src="https://img.shields.io/badge/Book%20Catalog-6C63FF?style=for-the-badge&logo=django&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
-  <img height="65" src="https://img.shields.io/badge/Java%20Calculator-B5179E?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-
 <a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
   <img height="65" src="https://img.shields.io/badge/Rummikub%20Game-7B2CBF?style=for-the-badge"/>
 </a>
