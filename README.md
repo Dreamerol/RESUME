@@ -332,21 +332,6 @@ Oct 2024 – Present
 </h2>
 
 
-<br>
-
-
-
-
-
-
-
-
-<h2 align="center"> 
- 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
-  <em>Selected SWE & Data Projects →</em>
- </a>
-</h2>
-  
 
 <br>
 
