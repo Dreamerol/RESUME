@@ -364,34 +364,6 @@ Oct 2024 – Present
 
 
 
-<div align="center">
-
-<p>
-  <!-- TOP (ML / cold → warm start) -->
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-B5179E?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-9D4EDD?style=for-the-badge" />
-
-  <!-- MIDDLE (core purple zone) -->
-  <img alt="Java" src="https://img.shields.io/badge/Java-7B2CBF?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-8A2BE2?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-6C63FF?style=for-the-badge" />
-
-  <!-- 🔽 START OF RETURN FLOW -->
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-3A0CA3?style=for-the-badge" />
-
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-4F8CFF?style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <!-- 🔴 FINAL WARM END -->
-  <img alt="Data Systems" src="https://img.shields.io/badge/Data_Systems-FF4D8D?style=for-the-badge" />
-</p>
-
-</div>
-
-
-
-
 
 
 
@@ -452,7 +424,7 @@ Oct 2024 – Present
   <img height="65" src="https://img.shields.io/badge/Book%20Catalog-1D3557?style=for-the-badge&logo=django&logoColor=white"/>
 </a>
 
-<!-- 🟩 SOFTWARE / SYSTEMS (mirror bottom stability) -->
+
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
   <img height="65" src="https://img.shields.io/badge/Java%20Calculator-1B4332?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
@@ -466,11 +438,11 @@ Oct 2024 – Present
 </a>
 
 <a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-  <img height="65" src="https://img.shields.io/badge/OOP%20Design-1B4332?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/OOP%20Design-8A2BE2?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-  <img height="65" src="https://img.shields.io/badge/Linux%20Toolkit-1B4332?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Linux%20Toolkit-B5179E?style=for-the-badge&logo=linux&logoColor=white"/>
 </a>
 
 </div>
