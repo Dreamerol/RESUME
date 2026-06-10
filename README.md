@@ -63,12 +63,10 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
   <img alt="Python" src="https://img.shields.io/badge/Python-1D3557?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-1D3557?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Backend" src="https://img.shields.io/badge/Backend-1D3557?style=for-the-badge" />
-
   <img alt="Java" src="https://img.shields.io/badge/Java-1B4332?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-1B4332?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-1B4332?style=for-the-badge" />
   <img alt="OOP" src="https://img.shields.io/badge/OOP-1B4332?style=for-the-badge" />
-
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-3C096C?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="APIs" src="https://img.shields.io/badge/APIs-3C096C?style=for-the-badge" />
 </p>
@@ -114,18 +112,20 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 ---
 
+
+
 <div align="center">
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-4F8CFF?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-6C63FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-3A86FF?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-B5179E?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF4D8D?style=for-the-badge" />
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-7B2CBF?style=for-the-badge" />
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-4361EE?style=for-the-badge" />
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-9D4EDD?style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1D3557?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-1D3557?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-1D3557?style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-1B4332?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-1B4332?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-1B4332?style=for-the-badge" />
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-1B4332?style=for-the-badge" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-3C096C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-3C096C?style=for-the-badge" />
 </p>
 
 </div>
@@ -154,22 +154,23 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
  
 ---
 
+
+
 <div align="center">
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-4F8CFF?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-6C63FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-3A86FF?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-B5179E?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF4D8D?style=for-the-badge" />
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-7B2CBF?style=for-the-badge" />
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-4361EE?style=for-the-badge" />
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-9D4EDD?style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1D3557?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-1D3557?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-1D3557?style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-1B4332?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-1B4332?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-1B4332?style=for-the-badge" />
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-1B4332?style=for-the-badge" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-3C096C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-3C096C?style=for-the-badge" />
 </p>
 
 </div>
-
 
 <br>
 
@@ -237,18 +238,20 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 <div align="center">
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-4F8CFF?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-6C63FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-3A86FF?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-B5179E?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF4D8D?style=for-the-badge" />
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-7B2CBF?style=for-the-badge" />
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-4361EE?style=for-the-badge" />
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-9D4EDD?style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1D3557?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-1D3557?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-1D3557?style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-1B4332?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-1B4332?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-1B4332?style=for-the-badge" />
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-1B4332?style=for-the-badge" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-3C096C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-3C096C?style=for-the-badge" />
 </p>
 
 </div>
+
+
 
 <br>
 
@@ -276,15 +279,15 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 <div align="center">
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-4F8CFF?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-6C63FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-3A86FF?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-B5179E?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF4D8D?style=for-the-badge" />
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-7B2CBF?style=for-the-badge" />
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-4361EE?style=for-the-badge" />
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-9D4EDD?style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1D3557?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-1D3557?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-1D3557?style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-1B4332?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-1B4332?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-1B4332?style=for-the-badge" />
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-1B4332?style=for-the-badge" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-3C096C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-3C096C?style=for-the-badge" />
 </p>
 
 </div>
