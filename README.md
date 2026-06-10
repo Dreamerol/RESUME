@@ -405,7 +405,7 @@ Oct 2024 – Present
 </a>
 
 <a href="https://github.com/Dreamerol/DATABASES-SQL">
-  <img height="65" src="https://img.shields.io/badge/Databases-3A0CA3?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Databases-6C63FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
@@ -421,7 +421,7 @@ Oct 2024 – Present
 </a>
 
 <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-  <img height="65" src="https://img.shields.io/badge/Book%20Catalog-3A0CA3?style=for-the-badge&logo=django&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Book%20Catalog-6C63FF?style=for-the-badge&logo=django&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
