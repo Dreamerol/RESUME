@@ -388,7 +388,7 @@ Oct 2024 – Present
 
 
 <a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER">
-  <img height="65" src="https://img.shields.io/badge/Automata-6C63FF?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/Automata-9D4EDD?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
