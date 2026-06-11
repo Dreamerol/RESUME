@@ -445,14 +445,8 @@ width="320" height="220">
 </table>
 
 
-<br>
-
-
-
-
 
 </div>
-
 
 
 
@@ -470,8 +464,6 @@ width="320" height="220">
 </a>
 
 </div>
-
-
 
 
 
