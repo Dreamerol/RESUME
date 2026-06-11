@@ -350,6 +350,103 @@ Oct 2024 – Present
 
 
 
+<div align="center">
+
+<!-- ================= FEATURED ================= -->
+<table align="center">
+
+<tr>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZNNNNN777.jpg"
+width="320" height="220">
+</a>
+<br><b>𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220">
+</a>
+<br><b>𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PLACEBO777.JPG"
+width="320" height="220">
+</a>
+<br><b>𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</b>
+</td>
+
+</tr>
+
+</table>
+
+<br><br>
+
+<!-- ================= OTHER PROJECTS ================= -->
+<h2 align="center">
+  <a href="https://github.com/Dreamerol/PORTFOLIO-CARDS">
+    <b>👉 𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</b>
+  </a>
+</h2>
+
+<table align="center">
+
+<tr>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+<b>𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</b>
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+<b>𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</b>
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+<b>𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<b>𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+<b>𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<b>𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</b>
+</a>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+
+
+---
+
+
 
 <div align="center">
 
