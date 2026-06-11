@@ -388,28 +388,68 @@ width="320" height="220">
 
 <br><br>
 
-<!-- ================= OTHER PROJECTS ================= -->
-<a href="https://github.com/Dreamerol/PORTFOLIO-CARDS">
-  <h2>👉 OTHER PROJECTS</h2>
-</a>
+
+
+<h2 align="center">
+  <a href="https://github.com/Dreamerol/PORTFOLIO-CARDS">
+    👉 OTHER PROJECTS
+  </a>
+</h2>
+
 
 <table align="center">
 
 <tr>
-<td align="center"><a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">NUMERICAL ANALYSIS</a></td>
-<td align="center"><a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">POLYNOMIAL CALCULATOR</a></td>
-<td align="center"><a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">DATA STRUCTURES & ALGORITHMS</a></td>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦
+</a>
+</td>
 </tr>
 
 <tr>
-<td align="center"><a href="https://github.com/Dreamerol/DATABASES-SQL">DATABASES SQL</a></td>
-<td align="center"><a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">SQL SYSTEM</a></td>
-<td align="center"><a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">API SYSTEM</a></td>
+<td align="center">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠
+</a>
+</td>
+
 </tr>
 
 </table>
 
 </div>
+
+
+
+
+
+
+
 
 
 
