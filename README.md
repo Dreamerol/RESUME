@@ -388,7 +388,7 @@ width="320" height="220">
 
 </table>
 
-<br><br>
+<br>
 
 <!-- ================= OTHER PROJECTS ================= -->
 <h2 align="center">
@@ -399,7 +399,7 @@ width="320" height="220">
 
 
 <p align="center">
- 👉 <a href="https://github.com/Dreamerol/PORTFOLIO-CARDS">
+  <a href="https://github.com/Dreamerol/PORTFOLIO-CARDS">
     <img src="https://img.shields.io/badge/🚀%20CLICK%20TO%20VIEW%20OTHER%20PROJECTS-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
