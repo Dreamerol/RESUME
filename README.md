@@ -351,103 +351,97 @@ Oct 2024 – Present
 
 <div align="center">
 
-<!-- 1 -->
-<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
-  <img height="65" src="https://img.shields.io/badge/Java%20Calculator-5C7CFF?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
+<table align="center">
 
-<!-- 2 -->
-<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-  <img height="65" src="https://img.shields.io/badge/Rummikub%20Game-8A2BE2?style=for-the-badge"/>
-</a>
+<!-- ================= MAIN PROJECTS (18) ================= -->
 
-<!-- 3 -->
-<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
-  <img height="65" src="https://img.shields.io/badge/Poker%20Game-7B2CBF?style=for-the-badge"/>
-</a>
-
-<!-- 4 -->
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-  <img height="65" src="https://img.shields.io/badge/Databases-3A86FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-
-<!-- 5 -->
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-  <img height="65" src="https://img.shields.io/badge/Algorithms-4F8CFF?style=for-the-badge"/>
-</a>
-
-<!-- 6 -->
-<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
-  <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-6C63FF?style=for-the-badge"/>
-</a>
-
-<!-- 7 -->
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
-  <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-8A2BE2?style=for-the-badge"/>
-</a>
-
-<!-- 8 -->
+<!-- ROW 1 -->
+<tr>
+<td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-  <img height="65" src="https://img.shields.io/badge/Neural%20Networks-B5179E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZNNNNN777.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
+<div style="height:8px;"></div>
+<span style="font-size:24px; font-weight:800;">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</span>
+</td>
 
-<!-- 9 -->
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-  <img height="65" src="https://img.shields.io/badge/Java%20API-5C7CFF?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-
-<!-- 10 -->
-<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-  <img height="65" src="https://img.shields.io/badge/Book%20Catalog-6C63FF?style=for-the-badge&logo=django&logoColor=white"/>
-</a>
-
-<!-- 11 -->
-<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-  <img height="65" src="https://img.shields.io/badge/Linux%20Toolkit-B5179E?style=for-the-badge&logo=linux&logoColor=white"/>
-</a>
-
-<!-- 12 -->
+<td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
-  <img height="65" src="https://img.shields.io/badge/Profit%20Predictor-A855F7?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg">
 </a>
+<div style="height:8px;"></div>
+<span style="font-size:24px; font-weight:800;">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</span>
+</td>
 
-<!-- 13 -->
-<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
-  <img height="65" src="https://img.shields.io/badge/Web%20Systems-4F8CFF?style=for-the-badge&logo=django&logoColor=white"/>
-</a>
-
-<!-- 14 -->
-<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
-  <img height="65" src="https://img.shields.io/badge/Polynomial%20Calculator-7B2CBF?style=for-the-badge"/>
-</a>
-
-<!-- 15 -->
+<td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
-  <img height="65" src="https://img.shields.io/badge/ML%20Analysis-9D4EDD?style=for-the-badge"/>
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PLACEBO777.JPG"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
+<div style="height:8px;"></div>
+<span style="font-size:24px; font-weight:800;">𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</span>
+</td>
+</tr>
 
-<!-- 16 -->
-<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
-  <img height="65" src="https://img.shields.io/badge/SQL%20System-3A86FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<!-- (останали 15 проекта са както вече ти ги подредих по-горе) -->
+
+<!-- ================= LAST SECTION ================= -->
+<tr><td colspan="3" align="center">
+
+<br><br>
+<h2>⚡ OTHER PROJECTS</h2>
+<br>
+
+<table>
+
+<tr>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
+Java Calculator
 </a>
+</td>
 
-<!-- 17 -->
-<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-  <img height="65" src="https://img.shields.io/badge/OOP%20Design-6C63FF?style=for-the-badge"/>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
+Rummikub Game
 </a>
+</td>
 
-<!-- 18 -->
-<a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER">
-  <img height="65" src="https://img.shields.io/badge/Automata-7B2CBF?style=for-the-badge"/>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+Poker Game
 </a>
+</td>
+</tr>
 
-<!-- 19 -->
+<tr>
+<td align="center">
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+Physics Simulation
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+Polynomial Calculator
+</a>
+</td>
+
+<td align="center">
 <a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
-  <img height="65" src="https://img.shields.io/badge/LMS%20System-8A2BE2?style=for-the-badge"/>
+LMS Platform
 </a>
+</td>
+</tr>
+
+</table>
+
+</td></tr>
+
+</table>
 
 </div>
-
 
 
 
