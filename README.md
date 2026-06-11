@@ -351,16 +351,6 @@ Oct 2024 – Present
 
 
 
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 <!-- ================= FEATURED ================= -->
@@ -371,7 +361,7 @@ Oct 2024 – Present
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZNNNNN777.jpg"
-width="320" height="220" style="border-radius:12px;">
+width="320" height="220">
 </a>
 <br><b>NEURAL NETWORKS</b>
 </td>
@@ -379,7 +369,7 @@ width="320" height="220" style="border-radius:12px;">
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220" style="border-radius:12px;">
+width="320" height="220">
 </a>
 <br><b>PROFIT PREDICTOR</b>
 </td>
@@ -387,7 +377,7 @@ width="320" height="220" style="border-radius:12px;">
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PLACEBO777.JPG"
-width="320" height="220" style="border-radius:12px;">
+width="320" height="220">
 </a>
 <br><b>ML DATA ANALYSIS</b>
 </td>
@@ -398,75 +388,28 @@ width="320" height="220" style="border-radius:12px;">
 
 <br><br>
 
-
-
+<!-- ================= OTHER PROJECTS ================= -->
 <a href="https://github.com/Dreamerol/PORTFOLIO-CARDS">
   <h2>👉 OTHER PROJECTS</h2>
 </a>
 
-
 <table align="center">
 
 <tr>
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
-𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
-</a>
-</td>
-
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
-𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
-</a>
-</td>
-
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦
-</a>
-</td>
+<td align="center"><a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">NUMERICAL ANALYSIS</a></td>
+<td align="center"><a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">POLYNOMIAL CALCULATOR</a></td>
+<td align="center"><a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">DATA STRUCTURES & ALGORITHMS</a></td>
 </tr>
 
 <tr>
-<td align="center">
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
-𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠
-</a>
-</td>
-
+<td align="center"><a href="https://github.com/Dreamerol/DATABASES-SQL">DATABASES SQL</a></td>
+<td align="center"><a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">SQL SYSTEM</a></td>
+<td align="center"><a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">API SYSTEM</a></td>
 </tr>
 
 </table>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
