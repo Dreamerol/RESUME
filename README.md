@@ -349,7 +349,7 @@ Oct 2024 – Present
 ---
 
 
-<br>
+<br><br>
 
 
 
@@ -447,7 +447,6 @@ width="320" height="220">
 
 
 
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol/PORTFOLIO-CARDS" target="_blank">
@@ -466,7 +465,6 @@ width="320" height="220">
 </a>
 
 </div>
-
 
 
 
