@@ -233,7 +233,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 
-### 🟢 [𝗝𝗔𝗩𝗔 • 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗔𝗣𝗜𝘀](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) (Java, Clojure)
+### 🟢 [𝗝𝗔𝗩𝗔 • 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗣𝗜𝘀](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) 
 
 - Designed backend integration system using API-driven architecture  
 - Implemented modular service communication layer for distributed systems  
