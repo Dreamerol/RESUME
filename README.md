@@ -350,6 +350,138 @@ Oct 2024 – Present
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<!-- ================= FEATURED ================= -->
+<table align="center">
+
+<tr>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZNNNNN777.jpg"
+width="320" height="220" style="border-radius:12px;">
+</a>
+<br><b>NEURAL NETWORKS</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="border-radius:12px;">
+</a>
+<br><b>PROFIT PREDICTOR</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PLACEBO777.JPG"
+width="320" height="220" style="border-radius:12px;">
+</a>
+<br><b>ML DATA ANALYSIS</b>
+</td>
+
+</tr>
+
+</table>
+
+<br><br>
+
+<!-- ================= OTHER PROJECTS LINK ================= -->
+<h2>⚡ OTHER PROJECTS</h2>
+
+<a href="https://github.com/Dreamerol/PORTFOLIO-CARDS">
+  <b>👉 VIEW ALL OTHER PROJECTS (CLICK HERE)</b>
+</a>
+
+<br><br>
+
+<!-- ================= 6 VISIBLE CARDS ================= -->
+<table align="center">
+
+<tr>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Numericalanalysis.jpg"
+width="320" height="220" style="border-radius:12px;">
+</a>
+<br><b>NUMERICAL ANALYSIS</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/algorithms.jpg"
+width="320" height="220" style="border-radius:12px;">
+</a>
+<br><b>DSA & ALGORITHMS</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/sql.jpg"
+width="320" height="220" style="border-radius:12px;">
+</a>
+<br><b>DATABASES</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+<b>SQL SYSTEM</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<b>API SYSTEM</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+<b>DJANGO CATALOG</b>
+</a>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
 <div align="center">
 
 <!-- ================= FEATURED ================= -->
