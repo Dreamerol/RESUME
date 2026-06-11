@@ -379,9 +379,6 @@ Oct 2024 – Present
 </a>
 
 
-<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-  <img height="65" src="https://img.shields.io/badge/Linux%20Toolkit-5C7CFF?style=for-the-badge&logo=linux&logoColor=white"/>
-</a>
 
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
   <img height="65" src="https://img.shields.io/badge/Algorithms-4F8CFF?style=for-the-badge"/>
