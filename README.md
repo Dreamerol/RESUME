@@ -450,27 +450,20 @@ width="320" height="220">
 
 
 
+<div align="center" style="margin: 6px 0 8px 0;">
 
-<img
-  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_BUTON.PNG"
-  width="240"
-  style="
-    border-radius: 16px;
-    border: 1px solid rgba(255,255,255,0.12);
-    box-shadow:
-      0 8px 18px rgba(0,0,0,0.25),
-      0 0 10px rgba(138,43,226,0.25);
-    filter: saturate(1.2);
-  "
-/>
+<a href="https://github.com/Dreamerol/PORTFOLIO-CARDS" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_BUTON.PNG"
+    width="215"
+    style="
+      border-radius: 16px;
+      border: 2px solid #8A2BE2;
+    "
+  />
+</a>
 
-
-
-
-
-
-
-
+</div>
 
 
 
@@ -494,6 +487,9 @@ width="320" height="220">
 </a>
 
 </div>
+
+
+
 
 
 
