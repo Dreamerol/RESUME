@@ -449,11 +449,11 @@ width="320" height="220">
 
 
 
+---
 
 
 
-
-
+<br>
 
 
 
@@ -495,7 +495,25 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
+---
 
+
+
+
+<div align="center" style="margin: 6px 0 8px 0;"> 
+
+<a href="https://github.com/Dreamerol/PORTFOLIO-CARDS" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_BUTON.PNG"
+    width="215"
+    style="
+      border-radius: 16px;
+      border: 2px solid #8A2BE2;
+    "
+  />
+</a>
+
+</div>
 
 
 
