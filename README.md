@@ -114,7 +114,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 - Designed data workflows improving system efficiency and throughput  
 - Worked on scalable integration patterns and event-driven architectures  
 - Supported production systems used in internal platform operations  
-- Featured System: Java + Clojure API System 👉 [𝗝𝗮𝘃𝗮 + 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗔𝗣𝗜 𝗦𝘆𝘀𝘁𝗲𝗺](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
+- Featured System: Java + Clojure API System 👉 [𝗝𝗔𝗩𝗔 • 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗣𝗜𝘀](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
 
 ---
