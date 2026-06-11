@@ -471,37 +471,10 @@ width="320" height="220">
 <div style="height: 6px;"></div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div style="height: 14px;"></div>
-
-<!-- ================= BUTTON ================= -->
-<div align="center" style="margin: 8px 0 10px 0;">
-
-<a href="https://github.com/Dreamerol/PORTFOLIO-CARDS" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_BUTON.PNG"
-    width="320"
-    style="
-      border-radius: 16px;
-      border: 2px solid rgba(255,255,255,0.12);
-      box-shadow: 0 10px 25px rgba(0,0,0,0.35);
-    "
-  />
-</a>
-
 </div>
+
+
+
 
 
 
