@@ -449,15 +449,16 @@ width="320" height="220">
 
 
 
-<div align="center" style="margin: 10px 0 6px 0;">
+<div align="center" style="margin: 10px 0 8px 0;">
 
-<a href="https://github.com/Dreamerol?tab=repositories" target="_blank">
+<a href="https://github.com/Dreamerol/PORTFOLIO-CARDS" target="_blank">
   <img
-    src="https://img.shields.io/badge/🧩%20SELECTED%20REPOS%202026-6C63FF?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/🧩%20SELECTED%20REPOS%202026-6C63FF?style=for-the-badge&labelColor=0d0d0d"
   />
 </a>
 
 </div>
+
 
 
 
