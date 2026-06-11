@@ -480,27 +480,41 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
+<br>
 
 
 
 
+<p align="center">
 
-
-
-<div align="center" style="margin: 6px 0 8px 0;"> 
-
-<a href="https://github.com/Dreamerol/PORTFOLIO-CARDS" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_BUTON.PNG"
-    width="215"
-    style="
-      border-radius: 16px;
-      border: 2px solid #8A2BE2;
-    "
-  />
+<a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">
+<img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
+<a href="https://github.com/Dreamerol">
+<img src="https://img.shields.io/badge/GitHub-4F8CFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+
+<a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">
+<img src="https://img.shields.io/badge/Repos-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+
+<a href="https://github.com/Dreamerol/GITHUB-STATS">
+<img src="https://img.shields.io/badge/GitHub_Stats-4F8CFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">
+<img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
+</p>
+
 
 
 
