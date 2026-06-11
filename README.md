@@ -399,8 +399,6 @@ width="320" height="220">
 
 
 
----
-
 <table align="center">
 
 <tr>
@@ -447,6 +445,7 @@ width="320" height="220">
 </table>
 
 
+<br>
 
 
 <div style="height: 8px;"></div>
@@ -469,9 +468,6 @@ width="320" height="220">
 </div>
 
 <div style="height: 6px;"></div>
-
-
-</div>
 
 
 
