@@ -469,33 +469,6 @@ width="320" height="220">
 
 
 
-<div align="center" style="margin: 6px 0 8px 0;">
-
-<a href="https://github.com/Dreamerol/PORTFOLIO-CARDS" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_BUTON.PNG"
-    width="240"
-    style="
-      border-radius: 16px;
-      border: 1px solid rgba(138, 43, 226, 0.35);
-      box-shadow:
-        0 8px 18px rgba(0, 0, 0, 0.30),
-        0 0 14px rgba(138, 43, 226, 0.35);
-      filter: saturate(1.15) hue-rotate(250deg);
-    "
-  />
-</a>
-
-</div>
-
-
-
-
-
-
-
-
-
 
 <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
 
