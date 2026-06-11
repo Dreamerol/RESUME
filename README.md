@@ -348,6 +348,8 @@ Oct 2024 – Present
 
 ---
 
+
+
 <div align="center">
 
 <!-- ================= FEATURED ================= -->
@@ -385,62 +387,55 @@ width="320" height="220">
 
 <br><br>
 
-<!-- ================= OTHER PROJECTS ================= -->
+<!-- ================= OTHER 6 PROJECTS ================= -->
 <h2>⚡ OTHER PROJECTS</h2>
 
 <table align="center">
 
-<!-- FIRST 6 VISIBLE -->
-
 <tr>
-<td><a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">Numerical Analysis</a></td>
-<td><a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">DSA</a></td>
-<td><a href="https://github.com/Dreamerol/DATABASES-SQL">Databases</a></td>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦
+</a>
+</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">SQL System</a></td>
-<td><a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">API System</a></td>
-<td><a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">Django Catalog</a></td>
-</tr>
+<td align="center">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦
+</a>
+</td>
 
-</table>
+<td align="center">
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠
+</a>
+</td>
 
-<br>
+<td align="center">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠
+</a>
+</td>
 
-<!-- ================= COLLAPSIBLE REST ================= -->
-<details>
-<summary><b>🔽 Show more projects</b></summary>
-
-<br>
-
-<table align="center">
-
-<tr>
-<td><a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">Rummikub</a></td>
-<td><a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">Poker</a></td>
-<td><a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">OOP Design</a></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">Linux</a></td>
-<td><a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">Python Web</a></td>
-<td><a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">Polynomial Calc</a></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">Physics</a></td>
-<td><a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">LMS</a></td>
-<td><a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">Numerical (dup if needed)</a></td>
 </tr>
 
 </table>
-
-</details>
 
 </div>
-
-
 
 
 
