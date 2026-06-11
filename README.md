@@ -398,63 +398,51 @@ width="320" height="220" style="border-radius:12px;">
 
 <br><br>
 
-<!-- ================= OTHER PROJECTS LINK ================= -->
-<h2>⚡ OTHER PROJECTS</h2>
+
 
 <a href="https://github.com/Dreamerol/PORTFOLIO-CARDS">
-  <b>👉 VIEW ALL OTHER PROJECTS (CLICK HERE)</b>
+  <h2>👉 OTHER PROJECTS</h2>
 </a>
 
-<br><br>
 
-<!-- ================= 6 VISIBLE CARDS ================= -->
 <table align="center">
 
 <tr>
-
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Numericalanalysis.jpg"
-width="320" height="220" style="border-radius:12px;">
+𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
 </a>
-<br><b>NUMERICAL ANALYSIS</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
+</a>
 </td>
 
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/algorithms.jpg"
-width="320" height="220" style="border-radius:12px;">
+𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦
 </a>
-<br><b>DSA & ALGORITHMS</b>
 </td>
-
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/sql.jpg"
-width="320" height="220" style="border-radius:12px;">
-</a>
-<br><b>DATABASES</b>
-</td>
-
 </tr>
 
 <tr>
+<td align="center">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
-<b>SQL SYSTEM</b>
+𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠
 </a>
 </td>
 
 <td align="center">
 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-<b>API SYSTEM</b>
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-<b>DJANGO CATALOG</b>
+𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠
 </a>
 </td>
 
@@ -463,6 +451,9 @@ width="320" height="220" style="border-radius:12px;">
 </table>
 
 </div>
+
+
+
 
 
 
