@@ -449,6 +449,17 @@ width="320" height="220">
 
 
 
+<div align="center" style="margin: 10px 0 6px 0;">
+
+<a href="https://github.com/Dreamerol?tab=repositories" target="_blank">
+  <img
+    src="https://img.shields.io/badge/🧩%20SELECTED%20REPOS%202026-6C63FF?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
+</div>
+
+
 
 <div align="center" style="margin: 6px 0 8px 0;">
 
