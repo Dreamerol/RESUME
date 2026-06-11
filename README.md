@@ -391,22 +391,7 @@ width="320" height="220">
 <br><br>
 
 
-<!-- ================= OTHER PROJECTS ================= -->
-<h2 align="center">
-  <a href="https://github.com/Dreamerol/PORTFOLIO-CARDS">
-    <b>👉 𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</b>
-  </a>
-</h2>
 
-
-<!-- ================= OTHER PROJECTS ================= -->
-<h2 align="center">
-  <a href="https://github.com/Dreamerol/PORTFOLIO-CARDS">
-    <b>👉 𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</b>
-  </a>
-</h2>
-
-<br>
 
 <div align="center">
 
@@ -428,18 +413,6 @@ width="320" height="220">
 </div>
 
 
-
-
-<div align="center">
-
- <a href="https://github.com/Dreamerol/PORTFOLIO-CARDS">
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_BUTON.PNG" />
-</a>
-
-</div>
-
-
-https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_BUTON.PNG
 
 
 <br>
