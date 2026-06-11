@@ -398,6 +398,107 @@ width="320" height="220">
 
 
 
+
+---
+
+<table align="center">
+
+<tr>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+<b>𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</b>
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+<b>𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</b>
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+<b>𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<b>𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+<b>𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<b>𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</b>
+</a>
+</td>
+
+</tr>
+
+</table>
+
+<div style="height: 14px;"></div>
+
+<!-- ================= BUTTON ================= -->
+<div align="center" style="margin: 8px 0 10px 0;">
+
+<a href="https://github.com/Dreamerol/PORTFOLIO-CARDS" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_BUTON.PNG"
+    width="320"
+    style="
+      border-radius: 16px;
+      border: 2px solid rgba(255,255,255,0.12);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.35);
+    "
+  />
+</a>
+
+</div>
+
+<div style="height: 10px;"></div>
+
+<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
+
+<div align="center">
+
+<p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
+
+Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
+
+</p>
+
+<p style="font-size:10px; opacity:0.7;">
+🔗 Explore more on GitHub:
+<a href="https://github.com/Dreamerol">Mihaela Koseva • GitHub</a>
+</p>
+
+</div>
+
+<div style="height: 10px;"></div>
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
 <table align="center">
 
 <tr>
