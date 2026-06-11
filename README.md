@@ -456,7 +456,7 @@ width="320" height="220">
 
 
 
-<div align="center" style="margin: 6px 0 8px 0;">  👉
+<div align="center" style="margin: 6px 0 8px 0;"> 
 
 <a href="https://github.com/Dreamerol/PORTFOLIO-CARDS" target="_blank">
   <img
