@@ -349,6 +349,183 @@ Oct 2024 – Present
 ---
 
 
+
+<div align="center">
+
+<table align="center">
+
+<!-- ================= FEATURED (TOP 3) ================= -->
+<tr>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZNNNNN777.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</span>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</span>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PLACEBO777.JPG"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</span>
+</td>
+
+</tr>
+
+</table>
+
+<br><br>
+
+<!-- ================= GRID (15 PROJECTS = 3 x 5 layout) ================= -->
+<table align="center">
+
+<!-- ROW 1 -->
+<tr>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦
+</a>
+</td>
+
+</tr>
+
+<!-- ROW 2 -->
+<tr>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚
+</a>
+</td>
+
+</tr>
+
+<!-- ROW 3 -->
+<tr>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
+𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗚𝗔𝗠𝗘
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+𝗣𝗢𝗞𝗘𝗥 𝗚𝗔𝗠𝗘
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+𝗢𝗢𝗣 𝗗𝗘𝗦𝗜𝗚𝗡
+</a>
+</td>
+
+</tr>
+
+<!-- ROW 4 -->
+<tr>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+𝗟𝗜𝗡𝗨𝗫 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+𝗣𝗬𝗧𝗛𝗢𝗡 𝗪𝗘𝗕
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
+</a>
+</td>
+
+</tr>
+
+<!-- ROW 5 -->
+<tr>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
+𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠
+</a>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
 <div align="center">
 
 <table align="center">
@@ -444,7 +621,7 @@ LMS Platform
 </div>
 
 
-
+---
 
 
 <br>
