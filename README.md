@@ -349,9 +349,6 @@ Oct 2024 – Present
 ---
 
 
-
-
-
 <div align="center">
 
 <!-- 1 -->
@@ -449,36 +446,7 @@ Oct 2024 – Present
   <img height="65" src="https://img.shields.io/badge/LMS%20System-8A2BE2?style=for-the-badge"/>
 </a>
 
-<!-- 20 -->
-<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
-  <img height="65" src="https://img.shields.io/badge/Java%20Calculator-5C7CFF?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-
-<!-- 21 -->
-<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
-  <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-6C63FF?style=for-the-badge"/>
-</a>
-
-<!-- 22 -->
-<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
-  <img height="65" src="https://img.shields.io/badge/Polynomial%20Calculator-7B2CBF?style=for-the-badge"/>
-</a>
-
-<!-- 23 -->
-<a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
-  <img height="65" src="https://img.shields.io/badge/LMS%20System-8A2BE2?style=for-the-badge"/>
-</a>
-
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
