@@ -388,7 +388,9 @@ width="320" height="220">
 
 </table>
 
-<br>
+
+
+<br><br>
 
 
 
@@ -440,7 +442,7 @@ width="320" height="220">
 </div>
 
 
-<br>
+
 
 
 
@@ -466,7 +468,7 @@ width="320" height="220">
 </div>
 
 
-<br><br>
+
 
 
 ---
