@@ -488,19 +488,22 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
+
 ---
+
+
 
 
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">
-  <img height="65" src="https://img.shields.io/badge/LINKEDIN-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 
 <a href="https://github.com/Dreamerol">
-  <img height="65" src="https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/GITHUB-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/PORTFOLIO">
@@ -516,7 +519,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 </a>
 
 <a href="https://github.com/Dreamerol/RESUME">
-<img src="https://img.shields.io/badge/RESUME-9D4EDD?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESUME-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 </p>
@@ -529,3 +532,4 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 <br>
 <br>
+
