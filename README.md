@@ -514,7 +514,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
   <img height="65" src="https://img.shields.io/badge/REPOS-4F8CFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Dreamerol/GITHUB-STATS">
+<a href="https://github.com/Dreamerol/GITSTATS">
   <img height="65" src="https://img.shields.io/badge/STATS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
