@@ -534,7 +534,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 <p align="center">
 
-📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 • 
+<img src="https://img.shields.io/badge/LET'S_CONNECT-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">
 <img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" />
