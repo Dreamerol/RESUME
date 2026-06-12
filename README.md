@@ -492,46 +492,44 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-
-
-
-
 <p align="center">
 
-
-<a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">  
-<img src="https://img.shields.io/badge/LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">
+  <img height="65" src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol">
-<img src="https://img.shields.io/badge/GitHub-4F8CFF?style=for-the-badge&logo=github&logoColor=white" />
+  <img height="65" src="https://img.shields.io/badge/GITHUB-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Dreamerol/PORTFOLIO">
+<img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">
-<img src="https://img.shields.io/badge/Repos-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+  <img height="65" src="https://img.shields.io/badge/REPOS-4F8CFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/GITHUB-STATS">
-<img src="https://img.shields.io/badge/Stats-4F8CFF?style=for-the-badge&logo=github&logoColor=white" />
+  <img height="65" src="https://img.shields.io/badge/STATS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">
-<img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=readthedocs&logoColor=white" />
+<a href="https://github.com/Dreamerol/RESUME">
+<img src="https://img.shields.io/badge/RESUME-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 </p>
 
 
+</div>
 
 
 
 
+<br>
+<br>
+<br>
 
-<br><br><br>
 
 
 
