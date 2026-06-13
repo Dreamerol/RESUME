@@ -362,12 +362,7 @@ Oct 2024 – Present
 
 
 
-
-
-
-<br>
-
-
+<br><br>
 
 
 
@@ -636,7 +631,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-<br><br>
+<br>
 
 
 
@@ -682,5 +677,5 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 <br>
 <br>
-<br>
+
 
