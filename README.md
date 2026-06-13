@@ -366,9 +366,9 @@ Oct 2024 – Present
 
 <p align="center">
  
-<img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/APPLIED_ML-BACKEND_SYSTEMS-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=1f6feb" />
+<img src="https://img.shields.io/badge/DATA•SWE-ENGINEER-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/APPLIED_ML-BACKEND_SYSTEMS-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=6C63FF" />
 
 </p>
 
