@@ -354,6 +354,9 @@ Oct 2024 – Present
 - **Laureate** — FMI Mathematical National Competition 🥇  
 - **Participant** — National Mathematics & Physics Olympiads 🏅
 
+
+  <br>
+
 ---
 
 
@@ -361,7 +364,7 @@ Oct 2024 – Present
 
 
 
-<br>
+
 <br>
 
 
