@@ -4,6 +4,7 @@
 
 <br>
 
+
 <div align="center">
 
 <h1 align="center">
@@ -21,7 +22,8 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
-<br><br>
+
+<br>
 
 
 
