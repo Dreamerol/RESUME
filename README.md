@@ -495,22 +495,6 @@ width="320" height="220">
 
 
 
-<div align="center">
-
-## <a href="https://github.com/Dreamerol/CARDFOLIO">🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦 𝟮𝟬𝟮𝟲</a>
-
-## 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟 • 𝗟𝗶𝗻𝘂𝘅 • 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀
-
-</div>
-
-
-
-
-
-<br>
-
-
-
 
 <div align="center">
 
@@ -520,7 +504,7 @@ width="320" height="220">
 
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-<img src="YOUR_DSA_IMAGE"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220">
 </a>
 <br><b>𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
@@ -528,7 +512,7 @@ width="320" height="220">
 
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-<img src="YOUR_OOP_IMAGE"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220">
 </a>
 <br><b>𝗢𝗢𝗣 𝗗𝗘𝗦𝗜𝗚𝗡</b>
@@ -536,7 +520,7 @@ width="320" height="220">
 
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-<img src="YOUR_LINUX_IMAGE"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220">
 </a>
 <br><b>𝗟𝗜𝗡𝗨𝗫 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</b>
@@ -552,6 +536,7 @@ width="320" height="220">
 <table align="center">
 
 <tr>
+
 <td align="center" width="360">
 <a href="https://github.com/Dreamerol/DATABASES-SQL">
 <b>𝗦𝗤𝗟 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘</b>
@@ -569,9 +554,11 @@ width="320" height="220">
 <b>𝗖𝗟𝗢𝗝𝗨𝗥𝗘 & 𝗙𝗣</b>
 </a>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 <a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
 <b>𝗖++ 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚</b>
@@ -589,11 +576,13 @@ width="320" height="220">
 <b>𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗚𝗔𝗠𝗘</b>
 </a>
 </td>
+
 </tr>
 
 </table>
 
 </div>
+
 
 <br>
 <br>
