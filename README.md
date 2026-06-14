@@ -487,12 +487,11 @@ width="320" height="220">
 
 <div align="center">
 
-##  <a href="https://github.com/Dreamerol/CARDFOLIO">🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦 𝟮𝟬𝟮𝟲</a>
+## <a href="https://github.com/Dreamerol/CARDFOLIO">🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦 𝟮𝟬𝟮𝟲</a>
 
-## 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟 • 𝗟𝗶𝗻𝘂𝘅 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
+## 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟 • 𝗟𝗶𝗻𝘂𝘅 • 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀
 
 </div>
-
 
 
 
