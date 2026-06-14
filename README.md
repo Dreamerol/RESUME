@@ -148,10 +148,124 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 
-
-
-
 <br><br><br>
+
+
+
+
+<h2 align="left">
+  
+  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank" style="text-decoration:none; color:inherit;">
+    🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+  </a>
+</h2>
+
+
+
+### 🧠 [𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
+
+- Designed and evaluated neural networks with ~90%+ accuracy  
+- Implemented backpropagation and gradient descent from scratch  
+- Applied ML to dynamic system modeling (SIR model, ODE simulations)
+
+
+
+### 💰 [𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)
+
+- Built an end-to-end ML pipeline for profit forecasting and trend analysis  
+- Conducted EDA, feature engineering, and preprocessing  
+- Implemented regression, decision trees, and time series models
+
+
+
+### 💊 [𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) (Python, Pandas, Matplotlib, NumPy)
+
+- Performed exploratory and statistical analysis on 5,000+ clinical records  
+- Conducted hypothesis testing (p < 0.05) and correlation analysis  
+- Built preprocessing pipelines and visualization workflows
+
+
+
+### 📦 [𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗗𝗔𝗧𝗔 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) (SQL)
+
+- Designed normalized relational database schema  
+- Optimized SQL queries, improving performance by ~30%  
+- Supported KPI tracking and reporting workflows
+
+
+
+### 🟢 [𝗝𝗔𝗩𝗔 • 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗣𝗜𝘀](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) 
+
+- Designed backend integration system using API-driven architecture  
+- Implemented modular service communication layer for distributed systems  
+- Focused on scalable backend design and maintainable system structure  
+- Worked with event-driven and data synchronization workflows  
+
+
+### 🌐 [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢](https://github.com/Dreamerol/PORTFOLIO) (HTML, CSS, JavaScript)
+
+- Built a responsive portfolio showcasing projects and technical work  
+- Designed modular UI components with interactive navigation  
+- Centralized projects, skills, and professional profiles
+
+
+
+
+<br><br>
+
+
+
+## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
+
+
+**𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦**  
+• Neural networks, regression, classification, feature engineering, model evaluation, applied ML pipelines  
+
+**𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗣𝗜𝗦**  
+• Java, Python, REST APIs, distributed systems, microservices concepts, system integration  
+
+**𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚**  
+• SQL, data modeling, query optimization, pipeline design, structured data processing  
+
+**𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗔𝗖𝗧𝗜𝗖𝗘𝗦**  
+• Clean code, OOP, Git workflows, Agile development, modular system design  
+
+
+
+
+<br><br>
+
+
+## 📚 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡
+**Sofia University (FMI)** — Bachelor’s in Software Engineering  
+Oct 2024 – Present  
+
+**Sofia Mathematical High School (SMG)** — 2019 – 2024 | GPA: 5.99 / 6.00  
+
+
+<br>
+
+
+## 🏅 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 & 𝗖𝗢𝗨𝗥𝗦𝗘𝗦
+- Data Science — SoftUni 📊  
+- Mathematical Concepts for Developers — SoftUni 🧮  
+- Python (Fundamentals, Advanced, OOP, Web, Frameworks) — SoftUni 🐍  
+
+
+<br>
+
+
+## 🏆 𝗔𝗪𝗔𝗥𝗗𝗦
+- **Laureate** — FMI Mathematical National Competition 🥇  
+- **Participant** — National Mathematics & Physics Olympiads 🏅
+
+
+<br>
+  
+
+
+
+---
 
 
 
@@ -383,121 +497,7 @@ width="320" height="220">
 
 
 
-<h2 align="left">
-  
-  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank" style="text-decoration:none; color:inherit;">
-    🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
-  </a>
-</h2>
 
-
-
-### 🧠 [𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
-
-- Designed and evaluated neural networks with ~90%+ accuracy  
-- Implemented backpropagation and gradient descent from scratch  
-- Applied ML to dynamic system modeling (SIR model, ODE simulations)
-
-
-
-### 💰 [𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)
-
-- Built an end-to-end ML pipeline for profit forecasting and trend analysis  
-- Conducted EDA, feature engineering, and preprocessing  
-- Implemented regression, decision trees, and time series models
-
-
-
-### 💊 [𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) (Python, Pandas, Matplotlib, NumPy)
-
-- Performed exploratory and statistical analysis on 5,000+ clinical records  
-- Conducted hypothesis testing (p < 0.05) and correlation analysis  
-- Built preprocessing pipelines and visualization workflows
-
-
-
-### 📦 [𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗗𝗔𝗧𝗔 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) (SQL)
-
-- Designed normalized relational database schema  
-- Optimized SQL queries, improving performance by ~30%  
-- Supported KPI tracking and reporting workflows
-
-
-
-### 🟢 [𝗝𝗔𝗩𝗔 • 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗣𝗜𝘀](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) 
-
-- Designed backend integration system using API-driven architecture  
-- Implemented modular service communication layer for distributed systems  
-- Focused on scalable backend design and maintainable system structure  
-- Worked with event-driven and data synchronization workflows  
-
-
-### 🌐 [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢](https://github.com/Dreamerol/PORTFOLIO) (HTML, CSS, JavaScript)
-
-- Built a responsive portfolio showcasing projects and technical work  
-- Designed modular UI components with interactive navigation  
-- Centralized projects, skills, and professional profiles
-
-
-
-
-<br><br>
-
-
-
-## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
-
-
-**𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦**  
-• Neural networks, regression, classification, feature engineering, model evaluation, applied ML pipelines  
-
-**𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗣𝗜𝗦**  
-• Java, Python, REST APIs, distributed systems, microservices concepts, system integration  
-
-**𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚**  
-• SQL, data modeling, query optimization, pipeline design, structured data processing  
-
-**𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗔𝗖𝗧𝗜𝗖𝗘𝗦**  
-• Clean code, OOP, Git workflows, Agile development, modular system design  
-
-
-
-
-<br><br>
-
-
-## 📚 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡
-**Sofia University (FMI)** — Bachelor’s in Software Engineering  
-Oct 2024 – Present  
-
-**Sofia Mathematical High School (SMG)** — 2019 – 2024 | GPA: 5.99 / 6.00  
-
-
-<br>
-
-
-## 🏅 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 & 𝗖𝗢𝗨𝗥𝗦𝗘𝗦
-- Data Science — SoftUni 📊  
-- Mathematical Concepts for Developers — SoftUni 🧮  
-- Python (Fundamentals, Advanced, OOP, Web, Frameworks) — SoftUni 🐍  
-
-
-<br>
-
-
-## 🏆 𝗔𝗪𝗔𝗥𝗗𝗦
-- **Laureate** — FMI Mathematical National Competition 🥇  
-- **Participant** — National Mathematics & Physics Olympiads 🏅
-
-
-<br>
-  
-
-
-
----
-
- <br>
  
 
  <h2 align="center"> 
