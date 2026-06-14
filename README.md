@@ -151,7 +151,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 
-<br><br>
+<br><br><br>
 
 
 
@@ -378,7 +378,7 @@ width="320" height="220">
 
 
 
-<br><br>
+<br><br><br>
 
 
 
@@ -495,9 +495,10 @@ Oct 2024 – Present
 
 
 
+---
 
-
-
+ <br>
+ 
 
  <h2 align="center"> 
  👉 <a href="https://github.com/Dreamerol/PORTFOLIO"> 
