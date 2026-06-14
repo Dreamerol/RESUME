@@ -483,6 +483,7 @@ width="320" height="220">
 <br>
 
 
+
 ## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
 
 
@@ -499,6 +500,10 @@ width="320" height="220">
 • Clean code, OOP, Git workflows, Agile development, modular system design  
 
 
+<br>
+
+
+---
 
 
 <br>
