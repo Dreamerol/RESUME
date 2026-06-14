@@ -370,7 +370,7 @@ Oct 2024 – Present
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/PORTFOLIO">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
+## <a href="https://github.com/Dreamerol/PORTFOLIO">🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 • 𝗗𝗔𝗧𝗔 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
 
 ## 𝟭𝟱+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱/𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗦𝗤𝗟 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 
 
@@ -487,7 +487,7 @@ width="320" height="220">
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/CARDFOLIO">🧩 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦</a>
+## <a href="https://github.com/Dreamerol/CARDFOLIO">🧩 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦 • 𝟮𝟬𝟮𝟲</a>
 
 ## 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟 • 𝗟𝗶𝗻𝘂𝘅 • 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀
 
