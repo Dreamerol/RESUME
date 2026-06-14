@@ -382,14 +382,6 @@ width="320" height="220">
 
 
 
----
-
-
-
-<br>
-
-
-
 
 <h2 align="left">
   
@@ -449,10 +441,6 @@ width="320" height="220">
 
 
 
-
-
-
-
 <br>
 
 
@@ -471,10 +459,6 @@ width="320" height="220">
 
 **𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗔𝗖𝗧𝗜𝗖𝗘𝗦**  
 • Clean code, OOP, Git workflows, Agile development, modular system design  
-
-
-
-
 
 
 
@@ -506,16 +490,10 @@ Oct 2024 – Present
 - **Participant** — National Mathematics & Physics Olympiads 🏅
 
 
-  <br>
+ <br>
   
 
----
 
-
-
-
-
-<br>
 
 
 
