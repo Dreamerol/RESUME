@@ -148,7 +148,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 
-<br>
+
 
 
 
@@ -452,10 +452,10 @@ width="320" height="220">
 - Centralized projects, skills, and professional profiles
 
 
-<br>
 
 
----
+
+
 
 
 <br>
@@ -478,10 +478,10 @@ width="320" height="220">
 • Clean code, OOP, Git workflows, Agile development, modular system design  
 
 
-<br>
 
 
----
+
+
 
 
 <br>
