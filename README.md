@@ -168,7 +168,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 - Contributed to API-driven backend architecture and scalable service development using **Java** and **Clojure**  
 - Focused on modular system design, maintainable backend components, and structured data workflows  
 
-- **Role:** Junior Software Developer Intern  
+- **Role:** Junior Software Engineer Intern
 - **Focus Areas:** Backend Systems • REST APIs • Data Engineering • System Integrations
 
 
