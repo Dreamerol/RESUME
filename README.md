@@ -14,11 +14,13 @@
      𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
 </h1>
 
+</div>
+
 
 <h2 align="center">
 Data & Software Engineer • Applied ML ∫ data → systems ✨
 </h2>
-
+</div>
 
 
 <div align="center">
