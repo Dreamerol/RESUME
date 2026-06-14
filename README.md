@@ -129,28 +129,6 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 
-
-
-<div align="center">
-
-<p>
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-B5179E?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-9D4EDD?style=for-the-badge" />
-
-  <img alt="Java" src="https://img.shields.io/badge/Java-7B2CBF?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-8A2BE2?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-6C63FF?style=for-the-badge" />
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge" />
-
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-7B2CBF?style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-B5179E?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-</div>
-
-
-
 <br>
 
 ### 🔥 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗜𝗠𝗣𝗔𝗖𝗧
