@@ -251,7 +251,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 - Worked with event-driven and data synchronization workflows  
 
 
-### 🌐 [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO) (HTML, CSS, JavaScript)
+### 🌐 [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢](https://github.com/Dreamerol/PORTFOLIO) (HTML, CSS, JavaScript)
 
 - Built a responsive portfolio showcasing projects and technical work  
 - Designed modular UI components with interactive navigation  
