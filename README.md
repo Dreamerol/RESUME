@@ -125,8 +125,6 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 - Featured System: 👉 [𝗝𝗔𝗩𝗔 • 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗣𝗜𝘀](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
 
----
-
 
 
 <br>
@@ -148,9 +146,6 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 - **Focus Areas:** Backend Systems • REST APIs • Data Engineering • System Integrations
 
 
-
-
----
 
 
 <br><br>
