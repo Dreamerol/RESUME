@@ -372,6 +372,8 @@ Oct 2024 – Present
 
 ## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
 
+## 𝟭𝟱+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱/𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗦𝗤𝗟 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 
+
 </div>
 
 
@@ -420,8 +422,6 @@ width="320" height="220">
 
 <br>
 <br>
-
-
 
 
 
@@ -494,6 +494,7 @@ width="320" height="220">
 </div>
 
 
+<br>
 
 
 <div align="center">
@@ -530,8 +531,10 @@ width="320" height="220">
 
 </table>
 
+
 <br>
 <br>
+
 
 <table align="center">
 
