@@ -204,7 +204,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 <h2 align="left">
   
-  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026" target="_blank" style="text-decoration:none; color:inherit;">
+  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank" style="text-decoration:none; color:inherit;">
     🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
   </a>
 </h2>
@@ -599,7 +599,7 @@ width="320" height="220">
 
 
  <h2 align="center"> 
- 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
+ 👉 <a href="https://github.com/Dreamerol/PORTFOLIO"> 
   <em>Selected SWE & Data Projects →</em>
  </a>
 </h2>
