@@ -160,7 +160,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 ### 🔥 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗜𝗠𝗣𝗔𝗖𝗧 & 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
 
-- Built and maintained backend services in a distributed system, focusing on scalable architecture and API-driven communication using **Java** and **Clojure**
+- Built and maintained distributed backend services, focusing on scalable API-driven architecture using **Java** and **Clojure**
 - Contributed to event-driven data processing pipelines supporting internal platform workflows and service integrations
 - Improved API reliability by reducing failure rates through modular service design, debugging, and system-level root-cause analysis
 - Strengthened system maintainability and delivery speed via structured code reviews, Git workflows, and collaborative engineering practices
