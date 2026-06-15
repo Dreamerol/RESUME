@@ -166,8 +166,8 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 - Strengthened system maintainability and delivery speed via structured code reviews, Git workflows, and collaborative engineering practices
 - Designed and supported reusable data integration patterns across backend services and internal APIs
 
-**Role:** Junior Software Engineer Intern  
-**Focus Areas:** Backend Systems • REST APIs • Data Engineering • Distributed Systems • Event-Driven Architecture • System Integrations
+- **Role:** 𝗝𝘂𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗜𝗻𝘁𝗲𝗿𝗻
+- **Focus Areas:** Backend Systems • REST APIs • Data Engineering • Distributed Systems • Event-Driven Architecture • System Integrations
 
 
 
