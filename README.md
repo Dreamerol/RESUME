@@ -304,6 +304,24 @@ Oct 2024 – Present
 
 <br>
 
+<br><br>
+
+
+
+
+<div align="center">
+
+## <a href="https://github.com/Dreamerol/PORTFOLIO">🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>
+
+## 𝟭𝟱+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱/𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗦𝗤𝗟 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 
+
+</div>
+
+
+
+
+<br>
+
 
 
 <div align="center">
@@ -343,12 +361,8 @@ width="320" height="220">
 
 
 
-
 <br>
 <br>
-
-
-
 
 
 
@@ -368,34 +382,162 @@ width="320" height="220">
 </td>
 
 <td align="center" width="360">
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-<b>𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+<b>𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚</b>
 </a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-<b>𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦</b>
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+<b>𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡</b>
 </a>
 </td>
 
 <td align="center">
 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
-<b>𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</b>
+<b>𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</b>
 </a>
 </td>
 
 <td align="center">
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-<b>𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</b>
+<a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM">
+<b>𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</b>
+</a>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+<div align="center">
+
+## <a href="https://github.com/Dreamerol/CARDFOLIO">🧩 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦</a>
+
+## 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 • 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 & 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟 • 𝗟𝗶𝗻𝘂𝘅
+
+</div>
+
+
+
+
+<br>
+
+
+
+
+
+
+
+<table align="center">
+
+<tr>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220">
+</a>
+<br><b>𝗗𝗦𝗔 & 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220">
+</a>
+<br><b>𝗢𝗢𝗣 𝗗𝗘𝗦𝗜𝗚𝗡</b>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220">
+</a>
+<br><b>𝗟𝗜𝗡𝗨𝗫 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</b>
+</td>
+</tr>
+
+</table>
+
+
+
+
+<br>
+<br>
+
+
+
+
+<table align="center">
+
+
+
+<tr>
+<td align="center">
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+<b>𝗖++ 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚</b>
+</a>
+</td>
+
+
+<td align="center">
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+<b>𝗣𝗢𝗞𝗘𝗥 𝗚𝗔𝗠𝗘</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
+<b>𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗚𝗔𝗠𝗘</b>
 </a>
 </td>
 </tr>
-</table>
-</div>
 
+
+
+<tr>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<b>𝗦𝗤𝗟 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘</b>
+</a>     
+</td>
+
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+<b>𝗣𝗬𝗧𝗛𝗢𝗡</b>
+</a>     
+</td>
+
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<b>𝗖𝗟𝗢𝗝𝗨𝗥𝗘</b>
+</a>     
+</td>
+</tr>
+
+
+</table>
+
+</div>
 
 
 
