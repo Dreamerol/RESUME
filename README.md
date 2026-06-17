@@ -249,14 +249,6 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PROJECTS.png"
-    width="900"
-  />
-</div>
-
-
 
 <div align="center">
 
