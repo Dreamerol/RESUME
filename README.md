@@ -176,7 +176,31 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 
-<br><br>
+
+
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+<div align="center">
+
+<img 
+  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PROJECTS.png"
+  width="100%"   />
+
+</div>
+
+
+
+
+<br>
+<br>
 
 
 
@@ -236,28 +260,6 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 - Built a responsive portfolio showcasing projects and technical work  
 - Designed modular UI components with interactive navigation  
 - Centralized projects, skills, and professional profiles
-
-
-
-
-
-
-
-<br>
-<br>
-<br>
-
-
-
-
-
-<div align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PROJECTS.png"
-  width="100%"   />
-
-</div>
 
 
 
