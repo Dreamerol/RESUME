@@ -283,18 +283,6 @@ Oct 2024 – Present
 
 
 
-<div align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PROJECTS.png"
-  width="100%"   />
-
-</div>
-
-
-
-
-<br>
 <br>
 
 
