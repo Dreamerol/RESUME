@@ -39,6 +39,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
+
 <div align="center">
 
 <img 
@@ -48,6 +49,8 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
     />
 
 </div>
+
+
 
 
 
