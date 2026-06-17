@@ -182,27 +182,6 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 <br>
 <br>
-<br>
-
-
-
-
-
-<div align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PROJECTS.png"
-  width="100%"   />
-
-</div>
-
-
-
-
-<br>
-<br>
-
-
 
 
 
@@ -269,8 +248,6 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 
-
-
 ## 📚 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡
 **Sofia University (FMI)** — Bachelor’s in Software Engineering  
 Oct 2024 – Present  
@@ -298,8 +275,31 @@ Oct 2024 – Present
 
 
 
+<br>
+<br>
+<br>
+
+
+
+
+
+<div align="center">
+
+<img 
+  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PROJECTS.png"
+  width="100%"   />
+
+</div>
+
+
+
 
 <br>
+<br>
+
+
+
+
 
 
 ---
