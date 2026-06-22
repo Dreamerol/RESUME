@@ -26,6 +26,38 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
+
+https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!_BEST.png
+
+
+<br>
+
+
+
+
+
+<div align="center">
+
+<img 
+  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!_BEST.png"
+  alt="Vizitka"
+  width="100%"  
+    />
+
+</div>
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
 <br>
 
 
