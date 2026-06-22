@@ -280,12 +280,6 @@ Oct 2024 – Present
 
 
 
-<br><br>
-
-
-
-
-
 <div align="center">
 
 <img 
