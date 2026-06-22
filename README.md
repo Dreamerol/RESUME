@@ -545,6 +545,7 @@ width="320" height="220">
 
 
 
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!!!_VIZITKA.JPG" width="100%" alt="Vizitka" />
@@ -556,7 +557,10 @@ width="320" height="220">
 
 
 
-<br><br>
+<br><br><br>
+
+
+
 
 
 
