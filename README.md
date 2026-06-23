@@ -33,8 +33,6 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
-https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA.PNG
-
 
 <div align="center">
 
@@ -52,23 +50,6 @@ https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA.PNG
 
 
 
-
-
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!_BEST.png"
-    alt="Vizitka"
-    width="100%"  
-  />
-</a>
-
-</div>
 
 
 
