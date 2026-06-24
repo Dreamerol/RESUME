@@ -26,7 +26,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
-
+![MIHAELA KOSEVA](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_55.png)
 
 
 
@@ -40,7 +40,7 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
   <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_777.PNG"
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_55.png"
     width="100%"
     alt="Mihaela Koseva Banner"
   />
