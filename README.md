@@ -26,10 +26,6 @@ Data & Software Engineer • Applied ML ∫ data → systems ✨
 
 
 
-![MIHAELA KOSEVA](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_55.png)
-
-
-
 
 <br>
 
