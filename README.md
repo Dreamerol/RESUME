@@ -253,11 +253,12 @@ Oct 2024 – Present
 
 <div align="center">
 
-<img 
-  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG"
-  alt="Vizitka"
-  width="100%"  
-    />
+<a href="https://github.com/Dreamerol/VIZITKA">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true"
+    alt="VIZITKA Banner"
+  />
+</a>
 
 </div>
 
@@ -510,15 +511,17 @@ width="320" height="220">
 
 
 
-
-
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!!!_VIZITKA.JPG" width="100%" alt="Vizitka" />
+<a href="https://github.com/Dreamerol/VIZITKA">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!!!_VIZITKA.JPG"
+    width="100%"
+    alt="Vizitka"
+  />
+</a>
 
 </div>
-
 
 
 
