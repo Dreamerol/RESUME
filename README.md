@@ -1,27 +1,20 @@
 
 
-
-
-
 <div align="center">
 
-<h1 style="font-size:42px; line-height:1.2;">
-🟢 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
-</h1>
-
-</div>
-
+<a href="https://github.com/Dreamerol">
+  <h1>
+    🟢 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
+  </h1>
+</a>
 
 <h2 align="center">
-  <a >
+  <a href="https://github.com/Dreamerol" style="text-decoration:none; color:inherit;">
     Data & Software Engineer • Applied ML ∫ data → systems ✨
   </a>
 </h2>
 
 </div>
-
-
-
 <div align="center">
 
 ## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
