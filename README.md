@@ -1,8 +1,5 @@
 
 
-TOWA PEAWILNO LI E - 
-
-
 <div align="center">
 
 <h1 style="font-size:42px; line-height:1.2;">
@@ -13,9 +10,7 @@ TOWA PEAWILNO LI E -
 
 
 <h2 align="center">
-  <a >
-    Data & Software Engineer • Applied ML ∫ data → systems ✨
-  </a>
+  Data & Software Engineer • Applied ML ∫ data → systems ✨
 </h2>
 
 </div>
