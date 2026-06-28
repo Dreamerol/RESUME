@@ -1,15 +1,12 @@
 
 
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol">
-  <img src="https://img.shields.io/badge/MIHAELA%20KOSEVA%20%40%20FMI-click%20to%20visit-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MIHAELA%20KOSEVA%20@%20FMI-click%20profile-8A2BE2?style=for-the-badge" />
 </a>
 
 </div>
-
-
 
 
 
