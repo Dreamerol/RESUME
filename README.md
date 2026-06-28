@@ -1,18 +1,26 @@
 
 
+TOWA PEAWILNO LI E - 
+
+
 <div align="center">
 
-<a href="https://github.com/Dreamerol">
-  <h1>
-    🟢 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
-  </h1>
-</a>
+<h1 style="font-size:42px; line-height:1.2;">
+🟢 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
+</h1>
+
+</div>
+
 
 <h2 align="center">
-  <a href="https://github.com/Dreamerol" style="text-decoration:none; color:inherit;">
+  <a >
     Data & Software Engineer • Applied ML ∫ data → systems ✨
   </a>
 </h2>
+
+</div>
+
+
 
 </div>
 <div align="center">
