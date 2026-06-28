@@ -13,7 +13,7 @@
 
 
 <h2 align="center">
-  <a href="https://github.com/Dreamerol" style="text-decoration:none; color:inherit;">
+  <a >
     Data & Software Engineer • Applied ML ∫ data → systems ✨
   </a>
 </h2>
