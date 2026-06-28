@@ -4,25 +4,10 @@
 <div align="center">
 
 <a href="https://github.com/Dreamerol">
-  <h1 style="font-size:42px; line-height:1.2;">
-    🟢 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
-  </h1>
+  <img src="https://img.shields.io/badge/MIHAELA%20KOSEVA%20%40%20FMI-click%20to%20visit-8A2BE2?style=for-the-badge" />
 </a>
 
 </div>
-
-
-<h2 align="center">
-  <a href="https://github.com/Dreamerol" style="text-decoration:none; color:inherit;">
-    Data & Software Engineer • Applied ML ∫ data → systems ✨
-  </a>
-</h2>
-
-</div>
-
-
-
-
 
 
 
@@ -42,9 +27,13 @@
 
 
 <h2 align="center">
-Data & Software Engineer • Applied ML ∫ data → systems ✨
+  <a href="https://github.com/Dreamerol" style="text-decoration:none; color:inherit;">
+    Data & Software Engineer • Applied ML ∫ data → systems ✨
+  </a>
 </h2>
+
 </div>
+
 
 
 <div align="center">
