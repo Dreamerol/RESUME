@@ -6,7 +6,7 @@
 <div align="center">
 
 <h1 style="font-size:42px; line-height:1.2;">
-🟢 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
+🟢 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
 </h1>
 
 </div>
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
+## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
 
 </div>
 
