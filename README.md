@@ -17,18 +17,6 @@
 
 
 
-</div>
-<div align="center">
-
-## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
-
-</div>
-
-
-
-
-
-
 
 
 <br>
@@ -51,13 +39,6 @@
 
 
 <br>
-
-
-
-
-
-
-
 
 
 
