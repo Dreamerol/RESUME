@@ -494,6 +494,7 @@ width="320" height="220">
 
 
 
+
 <div align="center">
 
 <a href="https://github.com/Dreamerol/VIZITKA">
@@ -505,6 +506,7 @@ width="320" height="220">
 </a>
 
 </div>
+
 
 
 
