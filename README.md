@@ -20,6 +20,26 @@
 
 
 
+
+<table align="center">
+<tr>
+<td style="background:#3A3A3A;padding:8px;border-radius:20px;">
+
+<img 
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%2022.png"
+width="850"
+/>
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
 <br>
 
 
