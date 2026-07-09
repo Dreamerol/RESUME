@@ -225,10 +225,11 @@ Oct 2024 – Present
 
 
 ## 🏅 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 & 𝗖𝗢𝗨𝗥𝗦𝗘𝗦
-- Data Science — SoftUni 📊  
-- Mathematical Concepts for Developers — SoftUni 🧮  
-- Python (Fundamentals, Advanced, OOP, Web, Frameworks) — SoftUni 🐍  
 
+- 📊 **Data Science** — SoftUni
+- 🧮 **Mathematical Concepts for Developers** — SoftUni
+- 🐍 **Python** *(Fundamentals, Advanced, OOP, Web, Frameworks)* — SoftUni
+  
 
 <br>
 
