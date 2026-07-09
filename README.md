@@ -233,9 +233,11 @@ Oct 2024 – Present
 <br>
 
 
-## 🏆 𝗔𝗪𝗔𝗥𝗗𝗦
-- **Laureate** — FMI Mathematical National Competition 🥇  
-- **Participant** — National Mathematics & Physics Olympiads 🏅
+## 🏆 AWARDS & HONORS
+
+- 🌟 **Paysafe Academic Scholarship** — Award Recipient
+- 🥇 **FMI National Mathematics Competition** — Laureate
+- 🏅 **National Mathematics & Physics Olympiads** — Participant
 
 
 
