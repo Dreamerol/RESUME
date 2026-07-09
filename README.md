@@ -234,7 +234,7 @@ Oct 2024 – Present
 <br>
 
 
-## 🏆 AWARDS & HONORS
+## 🏆 𝗔𝗪𝗔𝗥𝗗𝗦 & 𝗛𝗢𝗡𝗢𝗥𝗦
 
 - 🌟 **Paysafe Academic Scholarship** — Award Recipient
 - 🥇 **FMI National Mathematics Competition** — Laureate
