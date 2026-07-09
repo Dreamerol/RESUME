@@ -20,31 +20,6 @@
 
 
 
-
-<div align="center">
-
-<div style="
-  display:inline-block;
-  padding:8px;
-  background:#3A3A3A;
-  border-radius:22px;
-">
-
-<img 
- src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%2022.png"
- width="90%"
- style="
-   border-radius:16px;
-   display:block;
- "
- alt="Mihaela Koseva Banner"
-/>
-
-</div>
-
-</div>
-
-
 <br>
 
 
