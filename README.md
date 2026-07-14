@@ -238,21 +238,6 @@ Oct 2024 – Present
 ---
 
 
-<div align="center">
-
-<a href="https://github.com/Dreamerol/VIZITKA">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true"
-    alt="VIZITKA Banner"
-  />
-</a>
-
-</div>
-
-
-
-
-
 
 
 <br><br>
