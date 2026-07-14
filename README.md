@@ -240,6 +240,28 @@ Oct 2024 – Present
 
 
 
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/VIZITKA">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_MIHAELA_KOSEVA_VIZITKA_111.png"
+    width="100%"
+    alt="Vizitka"
+  />
+</a>
+
+</div>
+
+
+
+
+
+
+
+
 <br><br>
 
 
@@ -477,24 +499,6 @@ width="320" height="220">
 
 
 
-
-<br><br>
-
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/VIZITKA">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_MIHAELA_KOSEVA_VIZITKA_111.png"
-    width="100%"
-    alt="Vizitka"
-  />
-</a>
-
-</div>
 
 
 
