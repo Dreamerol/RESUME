@@ -218,6 +218,15 @@ Engineering team responsible for the platform’s algorithmic and functional cor
 - Implemented backpropagation and gradient descent from scratch
 - Applied ML to dynamic system modeling (SIR model, ODE simulations)
 
+  
+
+### 👁️ [𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗩𝗜𝗦𝗜𝗢𝗡](https://github.com/Dreamerol/COMPUTER-VISION) · Python, OpenCV, PyTorch
+
+* Implemented image processing, Lucas–Kanade optical flow, segmentation, and motion tracking techniques
+* Developed CNN, U-Net, image classification, object detection, and depth estimation workflows
+* Explored 3D vision, camera geometry, attention mechanisms, and Vision Transformers
+
+
 
 ### 🟣 [𝗦𝗣𝗜𝗞𝗜𝗡𝗚 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗦](https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY) · Python
 
