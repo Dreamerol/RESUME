@@ -174,7 +174,7 @@
 
 **𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 (МИХАЕЛА КОСЕВА) is a Software Engineering student at FMI, Sofia University (Софийски университет), with strong foundations in algorithms, mathematics, and analytical problem-solving from SMG, Sofia Mathematical High School** (Софийска математическа гимназия, СМГ).
 
-Built scalable backend systems, data pipelines, and REST APIs using Java, Clojure, and Python during a Junior Software Engineer internship at ZigiWave, contributing to distributed systems, data integration, and high-volume data processing workflows.
+Built scalable backend systems, data pipelines, and REST APIs using Java and Clojure during a Junior Software Engineer internship at ZigiWave, contributing to distributed systems, data integration, and high-volume data processing workflows.
 
 Focused on Applied Machine Learning, Data Science, neural networks, predictive analytics, statistical modeling, Data Systems & APIs, and data-driven engineering for real-world applications.
 
