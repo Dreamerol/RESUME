@@ -192,7 +192,7 @@ Focused on Applied Machine Learning, Data Science, neural networks, predictive a
 Engineering team responsible for the platform’s algorithmic and functional core, focusing on high-performance data transfer, transformation, and synchronization between independent systems using Clojure for scalable backend solutions.
 
 
-- Developed services and data pipelines using **Python**, **Java**, and **Clojure**
+- Developed services and data pipelines using **Java** and **Clojure**
 - Built REST API integrations supporting internal platform communication and data synchronization
 - Designed modular components following clean architecture principles
 - Contributed to systems handling **high-volume data processing workflows**
