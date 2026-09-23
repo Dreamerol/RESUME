@@ -472,27 +472,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<div align="center">
-  
-<a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
-
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG" width="100%" alt="Neuroscience SNN"/>
-
-</a>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
