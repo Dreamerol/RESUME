@@ -170,6 +170,10 @@
 <div align="left">
 
 
+<div align="left">
+
+
+
 ## 📝 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
 
 **𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 (МИХАЕЛА КОСЕВА) is a Software Engineering student at FMI, Sofia University (Софийски университет), with strong foundations in algorithms, mathematics, and analytical problem-solving from SMG, Sofia Mathematical High School** (Софийска математическа гимназия, СМГ).
@@ -324,6 +328,12 @@ Bachelor’s degree in Software Engineering | Oct 2024 – Present
 
 
 
+
+
+</div>
+
+
+</div>
 
 
 
