@@ -145,7 +145,7 @@
 
 
 <h1 align="center">
-  🧩 <a href="https://github.com/Dreamerol/CARDFOLIO"
+  <a href="https://github.com/Dreamerol/CARDFOLIO"
      title="RESUME, CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer - Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
     <b>𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 & 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜/𝗠𝗟</b>
   </a>
