@@ -354,7 +354,6 @@ Bachelor’s degree in Software Engineering | Oct 2024 – Present
 
 
 
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
