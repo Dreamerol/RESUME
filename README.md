@@ -29,11 +29,17 @@
 
 
 
-
-
-
 <div align="center">
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:8px; max-width:100%;">
+  <div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:8px;
+    white-space:nowrap;
+    overflow-x:auto;
+    max-width:100%;
+    scrollbar-width: thin;
+  ">
     <a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/" style="display:inline-block; white-space:nowrap; padding:10px 14px; border-radius:8px; background:#0d1320; color:#7dd3fc; font-weight:700; font-size:12px; text-decoration:none;">🌐 WEBSITE</a>
     <a href="https://github.com/Dreamerol/AI-STUDIO" style="display:inline-block; white-space:nowrap; padding:10px 14px; border-radius:8px; background:#0d1320; color:#34d399; font-weight:700; font-size:12px; text-decoration:none;">⚛️ AISTUDIO</a>
     <a href="https://github.com/Dreamerol/PORTFOLIO" style="display:inline-block; white-space:nowrap; padding:10px 14px; border-radius:8px; background:#0d1320; color:#a78bfa; font-weight:700; font-size:12px; text-decoration:none;">🟢 PORTFOLIO</a>
@@ -44,7 +50,6 @@
     <a href="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_VIZITKA.jpg" style="display:inline-block; white-space:nowrap; padding:10px 14px; border-radius:8px; background:#0d1320; color:#fca5a5; font-weight:700; font-size:12px; text-decoration:none;">✉️ CONTACT</a>
   </div>
 </div>
-
 
 
 
