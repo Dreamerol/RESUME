@@ -33,6 +33,30 @@
 
 
 <div align="center">
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:8px; max-width:100%;">
+    <a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/" style="display:inline-block; white-space:nowrap; padding:10px 14px; border-radius:8px; background:#0d1320; color:#7dd3fc; font-weight:700; font-size:12px; text-decoration:none;">🌐 WEBSITE</a>
+    <a href="https://github.com/Dreamerol/AI-STUDIO" style="display:inline-block; white-space:nowrap; padding:10px 14px; border-radius:8px; background:#0d1320; color:#34d399; font-weight:700; font-size:12px; text-decoration:none;">⚛️ AISTUDIO</a>
+    <a href="https://github.com/Dreamerol/PORTFOLIO" style="display:inline-block; white-space:nowrap; padding:10px 14px; border-radius:8px; background:#0d1320; color:#a78bfa; font-weight:700; font-size:12px; text-decoration:none;">🟢 PORTFOLIO</a>
+    <a href="https://github.com/Dreamerol/CARDFOLIO" style="display:inline-block; white-space:nowrap; padding:10px 14px; border-radius:8px; background:#0d1320; color:#fbbf24; font-weight:700; font-size:12px; text-decoration:none;">🧩 REPOS</a>
+    <a href="https://github.com/Dreamerol/ALLSTATS" style="display:inline-block; white-space:nowrap; padding:10px 14px; border-radius:8px; background:#0d1320; color:#22d3ee; font-weight:700; font-size:12px; text-decoration:none;">📊 STATS</a>
+    <a href="https://github.com/Dreamerol" style="display:inline-block; white-space:nowrap; padding:10px 14px; border-radius:8px; background:#0d1320; color:#60a5fa; font-weight:700; font-size:12px; text-decoration:none;">🐙 GITHUB</a>
+    <a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" style="display:inline-block; white-space:nowrap; padding:10px 14px; border-radius:8px; background:#0d1320; color:#bfdbfe; font-weight:700; font-size:12px; text-decoration:none;">🔗 LINKEDIN</a>
+    <a href="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_VIZITKA.jpg" style="display:inline-block; white-space:nowrap; padding:10px 14px; border-radius:8px; background:#0d1320; color:#fca5a5; font-weight:700; font-size:12px; text-decoration:none;">✉️ CONTACT</a>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
 
 <table style="width:100%; table-layout:fixed;">
 <tr>
